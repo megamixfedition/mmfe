@@ -7,11 +7,10 @@ DO NOT bother me to make this mod for PDF2nd, or PDX, because the game uses comp
 
 There's DEMOS released, for each plataform.
 
-PS3 Version: https://drive.google.com/file/d/1qyy_2R0rQdCZNqUiBxvu82cbJWZCFPuI/view
-RPCS3 Version: https://drive.google.com/file/d/1ls2LO4SJeW0XYN7IQ-tLf2b6BfKutcaU/view
-PSVITA Version: https://drive.google.com/file/d/1REZ5TK7ZsSitCBP4-KW3xEJUpp_XC50u/view
+ -PS3 Version: https://drive.google.com/file/d/1qyy_2R0rQdCZNqUiBxvu82cbJWZCFPuI/view
+ -RPCS3 Version: https://drive.google.com/file/d/1ls2LO4SJeW0XYN7IQ-tLf2b6BfKutcaU/view
+ -PSVITA Version: https://drive.google.com/file/d/1REZ5TK7ZsSitCBP4-KW3xEJUpp_XC50u/view
 
-Credits:
 Special credits:
 
 Thatrandomlurker for teaching everything about modding to me, and now he and me (miku zando) we are working on this amazing project.
