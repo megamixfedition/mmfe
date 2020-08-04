@@ -1,110 +1,113 @@
 FIRST SONG LIST PREVIEW:
 (it can be changed in the future)
+Currently improving some PVs, and fixing small issues, after that success events will be created.
+Inerviewer removed and replaced with Stardust Utopia, because of high resolution sprites.
 
-1.	Mousou Sketch
-2.	Jigsaw Puzzle
-3.	No Logic
-4.	1/6 -out of the gravity-
-5.	Denparadigm
-6.	The Snow White Princess is...
-7.	Ievan Polkka
-8.	Dear
-9.	World's End Dance Hall -Live Dance Edition-
-10.	Saihate
-11.	Psychogram - Exclusive/Waiting Chart
-12.	Butterfly on Your Right Shoulder
-13.	Gigantic Girl
-14.	Terekakushi Shishunki
-15.	Yumeyume
-16.	melody...
-17.	Deep Sea City Underground
-18.	ＶＯＣ＠ＬＯＩＤ In Love
-19.	Deep Sea Girl
-20.	Sekiranun Graffiti
-21.	PIANO*GIRL
-22.	Systematic Love
-23.	Sand Planet
-24.	on the rocks
-25.	Ghost Rule
-26.	SING＆SMILE
-27.	Tricolore Airline
-28.	39
-29.	The First Sound -F Edition-
-30.	Sweet Magic
-31.	Roki
-32.	*Hello, Planet.
-33.	Your Diva
-34.	Though my song has no form 
-35.	Innocence
-36.	Double Lariat
-37.	Dreaming Chuchu
-38.	Ohedo Julianight
-39.	Jitterbug
-40.	Snowman
-41.	Ai Kotoba
-42.	Lover's Suicide Oblivion
-43.	Meltdown
-44.	Love Is War
-45.	RinRin Signal -Append Mix-
-46.	Romeo and Cinderella
-47.	Kipple Industry, Inc.
-48.	Hatsune Miku no Shoushitso
-49.	from Y to Y
+1.	Mousou Sketch                 (FINISHED)
+2.	Jigsaw Puzzle                 (FINISHED)
+3.	No Logic                      (FINISHED)
+4.	1/6 -out of the gravity-      (FINISHED)
+5.	Denparadigm                   (FINISHED)
+6.	The Snow White Princess is... (FINISHED)
+7.	Ievan Polkka                  (FINISHED)
+8.	Dear                          (FINISHED)
+9.	World's End Dance Hall        (FINISHED)
+10.	Saihate                       (FINISHED)
+11.	Stardust Utopia               (NEW AND FINISHED)
+12.	Butterfly on Your Right Shoulder (FINISHED)
+13.	Gigantic Girl                 (FINISHED)
+14.	Terekakushi Shishunki         (FINISHED)
+15.	Yumeyume                      (FINISHED)
+16.	melody...                     (FINISHED)
+17.	Deep Sea City Underground     (FINISHED)
+18.	VOC@LOID In Love              (FINISHED)
+19.	Deep Sea Girl                 (FINISHED)
+20.	Sekiranun Graffiti            (FINISHED)
+21.	PIANO*GIRL                    (FINISHED)
+22.	Systematic Love               (FINISHED)
+23.	Sand Planet                   (FINISHED)
+24.	on the rocks                  (FINISHED)
+25.	Ghost Rule                    (FINISHED)
+26.	SING AND SMILE                (FINISHED)
+27.	Tricolore Airline             (FINISHED)
+28.	39                            (MAKING FACIALS)
+29.	The First Sound -F Edition-   (FINISHED)
+30.	Sweet Magic                   (FINISHED)
+31.	Roki                          (FINISHED)
+32.	*Hello, Planet.               (FINISHED)
+33.	Your Diva                     (FINISHED)
+34.	Though my song has no form    (FINISHED)
+35.	Innocence                     (FINISHED)
+36.	Double Lariat                 (FINISHED)
+37.	Dreaming Chuchu               (FINISHED)
+38.	Ohedo Julianight              (FINISHED)
+39.	Jitterbug                     (FINISHED)
+40.	Snowman                       (FINISHED)
+41.	Ai Kotoba                     (FINISHED)
+42.	Lover's Suicide Oblivion      (FINISHED)
+43.	Meltdown                      (FINISHED)
+44.	Love Is War                   (FINISHED)
+45.	RinRin Signal -Append Mix-    (FINISHED)
+46.	Romeo and Cinderella          (FINISHED)
+47.	Kipple Industry, Inc.         (CURRENTLY TRYING TO FIX FACIALS)
+48.	Hatsune Miku no Shoushitso    (FINISHED)
+49.	from Y to Y                   (FINISHED)
 
 50.	Ray - Exclusive/Waiting Chart and Video
 
-51.	Skeleton Orchestra and Lilia
-52.	Kimi no Taion
-53.	Nice To Meet You, Mr. Earthling
-54.	Ageage Again
-55.	shake it！
-56.	1925
-57.	Piano × Forte × Scandal
-58.	Hand in Hand
-59.	Palette
-60.	Starduster
-61.	Cendrillon
-62.	The secret garden
-63.	Hibikase
-64.	Hibana
-65.	Teo
-66.	39 Music!
-67.	Catch the Wave
-68.	Alien Alien
-69.	Electro saturator
-70.	StargazeR
+51.	Skeleton Orchestra and Lilia  (FINISHED)
+52.	Kimi no Taion                 (FINISHED)
+53.	Hajimemashite Chikyuujin-San  (FINISHED)
+54.	Ageage Again                  (FINISHED)
+55.	shake it!                     (FINISHED)
+56.	1925                          (FINISHED)
+57.	Piano × Forte × Scandal       (FINISHED)
+58.	Hand in Hand                  (FINISHED)
+59.	Palette                       (FINISHED)
+60.	Starduster                    (FINISHED)
+61.	Cendrillon                    (FINISHED)
+62.	The secret garden             (FINISHED)
+63.	Hibikase                      (FINISHED)
+64.	Hibana                        (FINISHED)
+65.	Teo                           (FINISHED)
+66.	39 Music!                     (FINISHED)
+67.	Catch the Wave                (FINISHED)
+68.	Alien Alien                   (FINISHED)
+69.	Electro saturator             (FINISHED)
+70.	StargazeR                     (FINISHED)
 
-71.	Solitary Envy - Exclusive
+71.	Solitary Envy - Exclusive     (FINISHED)
 
-72.	LIKE THE WIND
-73.	Lucid Dreaming
-74.	Strobo Nights
-75.	Song of Life
-76.	The Two of Us - Futaride
-77.	Oha-Yo-del!!
-78.	Puzzle
-79.	VOiCE -DIVA　MIX-
+72.	LIKE THE WIND                 (FINISHED)
+73.	Lucid Dreaming                (FINISHED)
+74.	Strobo Nights                 (FINISHED)
+75.	Song of Life                  (FINISHED)
+76.	The Two of Us - Futaride      (FINISHED)
+77.	Oha-Yo-del!!                  (FINISHED)
+78.	Puzzle                        (FINISHED)
+79.	VOiCE -DIVA　MIX-              (FINISHED)
 
-80.	Streaming Heart - Exclusive
-81.	Patchwork Stacatto - Exclusive
-82.	Calc. - Exclusice
+80.	Streaming Heart - Exclusive   (FINISHED)
+81.	Patchwork Stacatto - Exclusive (FINISHED)
+82.	Calc. - Exclusice             (FINISHED)
 
-83.	moon
-84.	Dear cocoa girls
-85.	Finder
-86.	Love-Colored Ward
-87.	NekoMimi Switch
-88.	Time Limit
-89.	Sound
-90.	Iroha Uta
-91.	Melt
-92.	Solitude's End 
+83.	moon                          (FINISHED)
+84.	Dear cocoa girls              (FINISHED)
+85.	Finder                        (FINISHED)
+86.	Love-Colored Ward             (FINISHED)
+87.	NekoMimi Switch               (FINISHED)
+88.	Time Limit                    (FINISHED)
+89.	Sound                         (FINISHED)
+90.	Iroha Uta                     (FINISHED)
+91.	Melt                          (FINISHED)
+92.	Solitude's End                (FINISHED)
 
-93.	Bless Your Breath - Exclusive/DLC M39's
-94.	Android Girl - Exclusive
+93.	Bless Your Breath - Exclusive (FINISHED)
+94.	Android Girl - Exclusive      (FINISHED)
+
 95.	Lucky Orb - Exclusive/Waiting Chart and Video
 96.	Reversible Campaign - Exclusive/Waiting Chart and Video
 
-97.	Bring it On - Waiting for DLC
-98.	Dramaturgy - Waiting for DLC
-99.	Greenlights Serenade - Waiting for DLC
+97.	Bring it On - Waiting for M39s DLC
+98.	Dramaturgy - Waiting for M39s DLC
+99.	Greenlights Serenade - Waiting for M39s DLC
