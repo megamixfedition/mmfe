@@ -1,7 +1,15 @@
-FIRST SONG LIST PREVIEW:
-(it can be changed in the future)
+MMFE SONG LIST PREVIEW: (it can be changed in the future) 
+
 Currently improving some PVs, and fixing small issues, after that success events will be created.
-Inerviewer removed and replaced with Stardust Utopia, because of high resolution sprites.
+
+-Forgot to mention, that there will be a new chart for "Love is War" (charts will be made on 
+PDF 2nd because the tool that it's used for creating charts does not supports chance time and 
+technical zone set and because it's an old song and it deserves long notes).
+
+- Kipple Industry was replaced with PoPiPo Special Edition because of broken facials and there is
+no fix for that yet. Most of the japanese on PoPiPo was translated to romaji including sprites.
+
+-DO NOT BOTHER TO DO THE SAME FOR OTHER CHARTS-
 
 1.	Mousou Sketch                 (FINISHED)
 2.	Jigsaw Puzzle                 (FINISHED)
@@ -13,7 +21,7 @@ Inerviewer removed and replaced with Stardust Utopia, because of high resolution
 8.	Dear                          (FINISHED)
 9.	World's End Dance Hall        (FINISHED)
 10.	Saihate                       (FINISHED)
-11.	Stardust Utopia               (NEW AND FINISHED)
+11.	Stardust Utopia               (FINISHED)
 12.	Butterfly on Your Right Shoulder (FINISHED)
 13.	Gigantic Girl                 (FINISHED)
 14.	Terekakushi Shishunki         (FINISHED)
@@ -49,7 +57,7 @@ Inerviewer removed and replaced with Stardust Utopia, because of high resolution
 44.	Love Is War                   (FINISHED)
 45.	RinRin Signal -Append Mix-    (FINISHED)
 46.	Romeo and Cinderella          (FINISHED)
-47.	Kipple Industry, Inc.         (CURRENTLY TRYING TO FIX FACIALS)
+47.	PoPipo -Special Edition       (FINISHED)
 48.	Hatsune Miku no Shoushitso    (FINISHED)
 49.	from Y to Y                   (FINISHED)
 
