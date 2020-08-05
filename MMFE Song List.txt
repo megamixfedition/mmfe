@@ -3,8 +3,8 @@ MMFE SONG LIST PREVIEW: (it can be changed in the future)
 Currently improving some PVs, and fixing small issues, after that success events will be created.
 
 -Forgot to mention, that there will be a new chart for "Love is War" (charts will be made on 
-PDF 2nd because the tool that it's used for creating charts does not supports chance time and 
-technical zone set and because it's an old song and it deserves long notes).
+PDF 2nd because the tool that it's used for creating charts does not supports chance time, technical zone set
+and Long notes. And because it's an old song and it deserves long notes :D).
 
 - Kipple Industry was replaced with PoPiPo Special Edition because of broken facials and there is
 no fix for that yet. Most of the japanese on PoPiPo was translated to romaji including sprites.
