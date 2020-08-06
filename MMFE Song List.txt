@@ -119,4 +119,4 @@ no fix for that yet. Most of the japanese on PoPiPo was translated to romaji inc
 98.	Dramaturgy - Waiting for M39s DLC
 99.	Greenlights Serenade - Waiting for M39s DLC
 
-100. Tuturial
+100.    Tuturial
