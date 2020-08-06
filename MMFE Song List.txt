@@ -5,11 +5,10 @@ Currently improving some PVs, and fixing small issues, after that success events
 -Forgot to mention, that there will be a new chart for "Love is War" (charts will be made on 
 PDF 2nd because the tool that it's used for creating charts does not supports chance time, technical zone set
 and Long notes. And because it's an old song and it deserves long notes :D).
+-DO NOT BOTHER TO DO THE SAME FOR OTHER CHARTS-
 
 - Kipple Industry was replaced with PoPiPo Special Edition because of broken facials and there is
 no fix for that yet. Most of the japanese on PoPiPo was translated to romaji including sprites.
-
--DO NOT BOTHER TO DO THE SAME FOR OTHER CHARTS (talking about F2nd edit mode to get long notes)-
 
 1.	Mousou Sketch                 (FINISHED)
 2.	Jigsaw Puzzle                 (FINISHED)
