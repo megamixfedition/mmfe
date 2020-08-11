@@ -1,14 +1,13 @@
 MMFE SONG LIST PREVIEW: (it can be changed in the future) 
 
 Currently improving some PVs, and fixing small issues, after that success events will be created.
+Stages/Character lighting on All PVs are done.
 
--Forgot to mention, that there will be a new chart for "Love is War" (charts will be made on 
-PDF 2nd because the tool that it's used for creating charts does not supports chance time, technical zone set
-and Long notes. And because it's an old song and it deserves long notes :D).
--DO NOT BOTHER TO DO THE SAME FOR OTHER CHARTS-
+MMFE was tested on PS3, issues only on AFT/AC songs, all dreamy theather songs works without any issues
+on PS3 as well, after RPCS3 version be finished, PS3 will be done after being optimized.
 
-- Kipple Industry was replaced with PoPiPo Special Edition because of broken facials and there is
-no fix for that yet. Most of the japanese on PoPiPo was translated to romaji including sprites.
+LOVE IS WAS and VOC@LOID in Love extreme charts done. Ray (by Bump of chicken) charts done, waiting
+for motion to make the PV.
 
 1.	Mousou Sketch                 (FINISHED)
 2.	Jigsaw Puzzle                 (FINISHED)
@@ -60,7 +59,7 @@ no fix for that yet. Most of the japanese on PoPiPo was translated to romaji inc
 48.	Hatsune Miku no Shoushitso    (FINISHED)
 49.	from Y to Y                   (FINISHED)
 
-50.	Ray - Exclusive/Waiting Chart and Video
+50.	Ray - Exclusive/Waiting for Video (CHARTS DONE)
 
 51.	Skeleton Orchestra and Lilia  (FINISHED)
 52.	Kimi no Taion                 (FINISHED)
