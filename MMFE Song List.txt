@@ -1,5 +1,10 @@
 MMFE SONG LIST PREVIEW: (it can be changed in the future) 
 
+FXAA disabled on PS3, that fixed a lot of lag on game, it fixed loop loadings and randm crashes, 
+and it speeds the loading time a lot, check some screenshots from PS3 on the link below:
+
+https://imgur.com/gallery/eHihM4x
+
 Currently improving some PVs, and fixing small issues, after that success events will be created.
 Stages/Character lighting on All PVs are done, and early charts fixed (NEW).
 
