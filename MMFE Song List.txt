@@ -1,20 +1,16 @@
 MMFE SONG LIST PREVIEW: (it can be changed in the future) 
 
-FXAA disabled on PS3, that fixed a lot of lag on game, it fixed loop loadings and randm crashes, 
-and it speeds the loading time a lot, check some screenshots from PS3 on the link below:
-
-https://imgur.com/gallery/eHihM4x
-
 Currently improving some PVs, and fixing small issues, after that success events will be created.
 Stages/Character lighting on All PVs are done, and early charts fixed (NEW).
 
-MMFE was tested on PS3, few lag only in some AFT/AC songs, all dreamy theather songs works without any 
-issues on PS3 as well, after RPCS3 version be finished, PS3 will be done after being optimized, after 
+MMFE was tested on PS3, few lag only in some AFT/AC songs, most of dreamy theather songs works without any 
+issues on PS3, after RPCS3 version be finished, PS3 will be done after being optimized, after 
 that, we will work on Vita version.
 
-Recent issue: LOVE IS WAR lags on PS3 for some strange reason.
+Recent issue: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason.
 
-Working on Reversible campaign charts.
+Working on Technical Zones for all songs.
+Working on Reversible Campaign charts.
 Waiting for Ray motion to make the rendered video.
 
 1.	Mousou Sketch                 (FINISHED)
