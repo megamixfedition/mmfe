@@ -13,26 +13,26 @@ Working on Technical Zones for all songs.
 Working on Reversible Campaign charts.
 Waiting for Ray motion to make the rendered video.
 
-1.	Mousou Sketch                 (FINISHED)
-2.	Jigsaw Puzzle                 (FINISHED)
+1.	Mousou Sketch                 (FINISHED - TECHZONE)
+2.	Jigsaw Puzzle                 (FINISHED - TECHZONE)
 3.	No Logic                      (FINISHED)
-4.	1/6 -out of the gravity-      (FINISHED)
+4.	1/6 -out of the gravity-      (FINISHED - TECHZONE)
 5.	Denparadigm                   (FINISHED)
 6.	The Snow White Princess is... (FINISHED)
 7.	Ievan Polkka                  (FINISHED)
-8.	Dear                          (FINISHED)
-9.	World's End Dance Hall        (FINISHED)
+8.	Dear                          (FINISHED - TECHZONE)
+9.	World's End Dance Hall        (FINISHED - TECHZONE)
 10.	Saihate                       (FINISHED)
 11.	Stardust Utopia               (FINISHED)
 12.	Butterfly on Your Right Shoulder (FINISHED)
-13.	Gigantic Girl                 (FINISHED)
+13.	Gigantic Girl                 (FINISHED - TECHZONE)
 14.	Terekakushi Shishunki         (FINISHED)
 15.	Yumeyume                      (FINISHED)
-16.	melody...                     (FINISHED)
+16.	melody...                     (FINISHED - TECHZONE)
 17.	Deep Sea City Underground     (FINISHED)
 18.	VOC@LOID In Love              (FINISHED)
 19.	Deep Sea Girl                 (FINISHED)
-20.	Sekiranun Graffiti            (FINISHED)
+20.	Sekiranun Graffiti            (FINISHED - EVERYTHING)
 21.	PIANO*GIRL                    (FINISHED)
 22.	Systematic Love               (FINISHED)
 23.	Sand Planet                   (FINISHED)
@@ -41,25 +41,25 @@ Waiting for Ray motion to make the rendered video.
 26.	SING AND SMILE                (FINISHED)
 27.	Tricolore Airline             (FINISHED)
 28.	39                            (MAKING FACIALS)
-29.	The First Sound -F Edition-   (FINISHED)
+29.	The First Sound -F Edition-   (FINISHED - TECHZONE)
 30.	Sweet Magic                   (FINISHED)
 31.	Roki                          (FINISHED)
 32.	*Hello, Planet.               (FINISHED)
 33.	Your Diva                     (FINISHED)
-34.	Though my song has no form    (FINISHED)
+34.	Though my song has no form    (FINISHED - EVERYTHING)
 35.	Innocence                     (FINISHED)
-36.	Double Lariat                 (FINISHED)
+36.	Double Lariat                 (FINISHED - EVERYTHING)
 37.	Dreaming Chuchu               (FINISHED)
 38.	Ohedo Julianight              (FINISHED)
 39.	Jitterbug                     (FINISHED)
-40.	Snowman                       (FINISHED)
-41.	Ai Kotoba                     (FINISHED)
+40.	Snowman                       (FINISHED - TECHZONE)
+41.	Ai Kotoba                     (FINISHED - EVERYTHING)
 42.	Lover's Suicide Oblivion      (FINISHED)
-43.	Meltdown                      (FINISHED)
+43.	Meltdown                      (FINISHED - EVERYTHING)
 44.	Love Is War                   (FINISHED)
 45.	RinRin Signal -Append Mix-    (FINISHED)
-46.	Romeo and Cinderella          (FINISHED)
-47.	PoPipo -Special Edition       (FINISHED)
+46.	Romeo and Cinderella          (FINISHED - EVERYTHING)
+47.	PoPipo -Special Edition       (FINISHED - EVERYTHING)
 48.	Hatsune Miku no Shoushitso    (FINISHED)
 49.	from Y to Y                   (FINISHED)
 
@@ -79,14 +79,14 @@ Waiting for Ray motion to make the rendered video.
 62.	The secret garden             (FINISHED)
 63.	Hibikase                      (FINISHED)
 64.	Hibana                        (FINISHED)
-65.	Teo                           (FINISHED)
+65.	Teo                           (FINISHED - TECHZONE)
 66.	39 Music!                     (FINISHED)
 67.	Catch the Wave                (FINISHED)
 68.	Alien Alien                   (FINISHED)
 69.	Electro saturator             (FINISHED)
 70.	StargazeR                     (FINISHED)
 
-71.	Solitary Envy - Exclusive     (FINISHED)
+71.	Solitary Envy - Exclusive     (FINISHED - TECHZONE)
 
 72.	LIKE THE WIND                 (FINISHED)
 73.	Lucid Dreaming                (FINISHED)
@@ -97,9 +97,9 @@ Waiting for Ray motion to make the rendered video.
 78.	Puzzle                        (FINISHED)
 79.	VOiCE -DIVA　MIX-              (FINISHED)
 
-80.	Streaming Heart - Exclusive   (FINISHED)
-81.	Patchwork Stacatto - Exclusive (FINISHED)
-82.	Calc. - Exclusice             (FINISHED)
+80.	Streaming Heart - Exclusive   (FINISHED - TECHZONE)
+81.	Patchwork Stacatto - Exclusive (FINISHED - TECHZONE)
+82.	Calc. - Exclusice             (FINISHED - TECHZONE)
 
 83.	moon                          (FINISHED)
 84.	Dear cocoa girls              (FINISHED)
@@ -109,8 +109,8 @@ Waiting for Ray motion to make the rendered video.
 88.	Time Limit                    (FINISHED)
 89.	Sound                         (FINISHED)
 90.	Iroha Uta                     (FINISHED)
-91.	Melt                          (FINISHED)
-92.	Solitude's End                (FINISHED)
+91.	Melt                          (FINISHED - EVERYTHING)
+92.	Solitude's End                (FINISHED - EVERYHTING)
 
 93.	Bless Your Breath - Exclusive (FINISHED)
 94.	Android Girl - Exclusive      (FINISHED)
@@ -118,7 +118,7 @@ Waiting for Ray motion to make the rendered video.
 95.	Lucky Orb - Exclusive/Waiting Chart and Video
 96.	Reversible Campaign - Exclusive/Working on charts and Video
 
-97.	Bring it On - Waiting for M39s DLC
+97.	Bring it On - Waiting for M39s Chart
 98.	Dramaturgy - Waiting for M39s DLC
 99.	Greenlights Serenade - Waiting for M39s DLC
 
