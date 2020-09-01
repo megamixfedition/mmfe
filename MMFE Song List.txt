@@ -1,6 +1,6 @@
 MMFE SONG LIST PREVIEW: (it can be changed in the future) 
 
-There will be songs that will not have technica zones, beaue they never work as they sould. I have
+There will be songs that will not have technical zone, because they never work as they sould. I have
 been working on technical zone for ghost rule for almost a week, and nothing.. The techzone starts
 on the right time, but on the final of it, it ends 3 notes earlier, and it gets success, i don't
 know how to explain, bit that's it.. The songs that will not have technical zones (for now) will 
