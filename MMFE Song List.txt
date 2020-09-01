@@ -1,5 +1,9 @@
 MMFE SONG LIST PREVIEW: (it can be changed in the future) 
 
+There will be songs that will not have technica zones, beaue they never work as they sould. I have
+been working on technical zone for ghost rule for almost a week, and nothing.. The songs that will
+not have technical zones (for now) will be marker on the list as "NO TECHZONE".
+
 Currently improving some PVs, and fixing small issues, after that success events will be created.
 Stages/Character lighting on All PVs are done, and early charts fixed (NEW).
 
@@ -37,7 +41,7 @@ Waiting for Ray motion to make the rendered video.
 22.	Systematic Love               (FINISHED)
 23.	Sand Planet                   (FINISHED)
 24.	on the rocks                  (FINISHED)
-25.	Ghost Rule                    (FINISHED)
+25.	Ghost Rule                    (FINISHED - NO TECHZONE)
 26.	SING AND SMILE                (FINISHED)
 27.	Tricolore Airline             (FINISHED)
 28.	39                            (MAKING FACIALS)
