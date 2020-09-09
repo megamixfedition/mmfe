@@ -1,23 +1,19 @@
 MMFE SONG LIST PREVIEW: (it can be changed in the future) 
 
-There will be songs that will not have technical zone, because they never work as they sould. I have
-been working on technical zone for ghost rule for almost a week, and nothing.. The techzone starts
-on the right time, but on the final of it, it ends 3 notes earlier, and it gets success, i don't
-know how to explain, but that's it.. The songs that will not have technical zones (for now) will 
-be marker on the list bellow as "NO TECHZONE".
+The songs that will not have technical zones (for now because of some issues about adding them manually) will 
+be marked on the list bellow as "NO TECHZONE".
 
 Currently improving some PVs, and fixing small issues, after that success events will be created.
 Stages/Character lighting on All PVs are done, and early charts fixed (NEW).
 
 MMFE was tested on PS3, few lag only in some AFT/AC songs, most of dreamy theather songs works without any 
-issues on PS3, after RPCS3 version be finished, PS3 will be done after being optimized, after 
-that, we will work on Vita version.
+issues on PS3, after RPCS3 version be finished, PS3 will be finished being optimized, and then, we will work 
+on the Vita version.
 
 Recent issue: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason.
 
 Working on Technical Zones for all songs.
-Working on Reversible Campaign charts.
-Waiting for Ray motion to make the rendered video.
+Working on RAY PV (rendered video from MMD - NEW), you can check small previews of the progress on our channel.
 
 1.	Mousou Sketch                 (FINISHED - TECHZONE)
 2.	Jigsaw Puzzle                 (FINISHED - TECHZONE)
@@ -69,7 +65,7 @@ Waiting for Ray motion to make the rendered video.
 48.	Hatsune Miku no Shoushitso    (FINISHED)
 49.	from Y to Y                   (FINISHED)
 
-50.	Ray - Exclusive/Waiting for Video (CHARTS DONE)
+50.	Ray - Exclusive/Working on Video (CHARTS DONE)
 
 51.	Skeleton Orchestra and Lilia  (FINISHED)
 52.	Kimi no Taion                 (FINISHED)
@@ -122,7 +118,7 @@ Waiting for Ray motion to make the rendered video.
 94.	Android Girl - Exclusive      (FINISHED)
 
 95.	Lucky Orb - Exclusive/Waiting Chart and Video
-96.	Reversible Campaign - Exclusive/Working on charts and Video
+96.	Reversible Campaign - Exclusive/Charts done; Waiting Video (NEW)
 
 97.	Bring it On - Waiting for M39s Chart
 98.	Dramaturgy - Waiting for M39s DLC
