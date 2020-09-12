@@ -12,8 +12,7 @@ on the Vita version.
 
 Recent issue: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason.
 
-Working on Technical Zones for all songs.
-Working on RAY PV (rendered video from MMD - NEW), you can check small previews of the progress on our channel.
+- Working on Technical Zones for all songs.
 
 1.	Mousou Sketch                 (FINISHED - TECHZONE)
 2.	Jigsaw Puzzle                 (FINISHED - TECHZONE)
@@ -65,7 +64,7 @@ Working on RAY PV (rendered video from MMD - NEW), you can check small previews 
 48.	Hatsune Miku no Shoushitso    (FINISHED)
 49.	from Y to Y                   (FINISHED)
 
-50.	Ray - Exclusive/Working on Video (CHARTS DONE)
+50.	Ray - Exclusive               (FINISHED)
 
 51.	Skeleton Orchestra and Lilia  (FINISHED)
 52.	Kimi no Taion                 (FINISHED)
