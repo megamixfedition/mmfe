@@ -1,18 +1,20 @@
 MMFE SONG LIST PREVIEW: (it can be changed in the future) 
 
-The songs that will not have technical zones (for now because of some issues about adding them manually) will 
-be marked on the list bellow as "NO TECHZONE".
+The songs that will not have technical zones (for now) because of some issues about adding them manually
+will be marked on the list bellow as "NO TECHZONE".
 
 Currently improving some PVs, and fixing small issues, after that success events will be created.
 Stages/Character lighting on All PVs are done, and early charts fixed (NEW).
 
-MMFE was tested on PS3, few lag only in some AFT/AC songs, most of dreamy theather songs works without any 
-issues on PS3, after RPCS3 version be finished, PS3 will be finished being optimized, and then, we will work 
-on the Vita version.
+MMFE was tested on PS3, there's few lag only in some AFT/AC songs, most of dreamy theather songs works without any 
+issues on PS3, after RPCS3 version be finished, we will work on PS3 version (by optimizing on it), and after that,
+we will work on the vita version.
 
-Recent issue: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason.
+Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason.
 
-- Working on Technical Zones for all songs.
+Working on Technical Zones for all songs.
+Working on new Intro Movie for MMFE.
+Working on BRING IT ON, Dramaturgy and Greenlights Serenade Charts.
 
 1.	Mousou Sketch                 (FINISHED - TECHZONE)
 2.	Jigsaw Puzzle                 (FINISHED - TECHZONE)
@@ -25,7 +27,7 @@ Recent issue: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason.
 9.	World's End Dance Hall        (FINISHED - TECHZONE)
 10.	Saihate                       (FINISHED)
 11.	Stardust Utopia               (FINISHED)
-12.	Butterfly on Your Right Shoulder (FINISHED - TECHZONE) (NEW)
+12.	Butterfly on Your Right Shoulder (FINISHED)
 13.	Gigantic Girl                 (FINISHED - TECHZONE)
 14.	Terekakushi Shishunki         (FINISHED)
 15.	Yumeyume                      (FINISHED)
@@ -64,7 +66,7 @@ Recent issue: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason.
 48.	Hatsune Miku no Shoushitso    (FINISHED)
 49.	from Y to Y                   (FINISHED)
 
-50.	Ray - Exclusive               (FINISHED)
+50.	Ray - Exclusive/Working on Video (FINISHED) (NEW)
 
 51.	Skeleton Orchestra and Lilia  (FINISHED)
 52.	Kimi no Taion                 (FINISHED)
@@ -119,8 +121,8 @@ Recent issue: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason.
 95.	Lucky Orb - Exclusive/Waiting Chart and Video
 96.	Reversible Campaign - Exclusive/Charts done; Waiting Video (NEW)
 
-97.	Bring it On - Waiting for M39s Chart
-98.	Dramaturgy - Waiting for M39s DLC
-99.	Greenlights Serenade - Waiting for M39s DLC
+97.	Bring it On - Remaking chart (NEW)
+98.	Dramaturgy - Remaking chart (NEW)
+99.	Greenlights Serenade - Remaking chart (NEW)
 
 100.    Tuturial
