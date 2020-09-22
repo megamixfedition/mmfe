@@ -3,8 +3,7 @@ MMFE SONG LIST PREVIEW: (it can be changed in the future)
 The songs that will not have technical zones (for now) because of some issues about adding them manually
 will be marked on the list bellow as "NO TECHZONE".
 
-Currently improving some PVs, and fixing small issues, after that success events will be created.
-Stages/Character lighting on All PVs are done, and early charts fixed (NEW).
+Every new change will be marked as "(NEW)" on the list below.
 
 MMFE was tested on PS3, there's few lag only in some AFT/AC songs, most of dreamy theather songs works without any 
 issues on PS3, after RPCS3 version be finished, we will work on PS3 version (by optimizing on it), and after that,
@@ -14,7 +13,6 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 
 Working on Technical Zones for all songs.
 Working on new Intro Movie for MMFE.
-Working on BRING IT ON, Dramaturgy and Greenlights Serenade Charts.
 
 1.	Mousou Sketch                 (FINISHED - TECHZONE)
 2.	Jigsaw Puzzle                 (FINISHED - TECHZONE)
@@ -27,7 +25,7 @@ Working on BRING IT ON, Dramaturgy and Greenlights Serenade Charts.
 9.	World's End Dance Hall        (FINISHED - TECHZONE)
 10.	Saihate                       (FINISHED)
 11.	Stardust Utopia               (FINISHED)
-12.	Butterfly on Your Right Shoulder (FINISHED)
+12.	Butterfly on Your Right Shoulder (FINISHED - TECHZONE)
 13.	Gigantic Girl                 (FINISHED - TECHZONE)
 14.	Terekakushi Shishunki         (FINISHED)
 15.	Yumeyume                      (FINISHED)
@@ -66,7 +64,7 @@ Working on BRING IT ON, Dramaturgy and Greenlights Serenade Charts.
 48.	Hatsune Miku no Shoushitso    (FINISHED)
 49.	from Y to Y                   (FINISHED)
 
-50.	Ray - Exclusive/Working on Video (FINISHED) (NEW)
+50.	Ray - Exclusive               (FINISHED) (NEW)
 
 51.	Skeleton Orchestra and Lilia  (FINISHED)
 52.	Kimi no Taion                 (FINISHED)
@@ -119,10 +117,10 @@ Working on BRING IT ON, Dramaturgy and Greenlights Serenade Charts.
 94.	Android Girl - Exclusive      (FINISHED)
 
 95.	Lucky Orb - Exclusive/Waiting Chart and Video
-96.	Reversible Campaign - Exclusive/Charts done; Waiting Video (NEW)
+96.	Reversible Campaign - Exclusive/Charts done; Waiting Video
 
-97.	Bring it On - Remaking chart (NEW)
-98.	Dramaturgy - Remaking chart (NEW)
-99.	Greenlights Serenade - Remaking chart (NEW)
+97.	Bring it On                   (FINISHED) (NEW)
+98.	Dramaturgy                    (FINISHED) (NEW)
+99.	Greenlights Serenade          (FINISHED) (NEW)
 
-100.    Tuturial
+100. Tuturial
