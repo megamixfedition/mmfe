@@ -1,9 +1,10 @@
 MMFE SONG LIST PREVIEW: (it can be changed in the future) 
 
-The songs that will not have technical zones (for now) because of some issues about adding them manually
-will be marked on the list bellow as "NO TECHZONE".
-
 Every new change will be marked as "(NEW)" on the list below.
+
+Tech zones will be added on game as an Update. (NEW)
+Dear cocoa girls was replaced with Ready Steady. (NEW)
+All stages were ported again to fix materials and we are working on Lighting. (NEW)
 
 MMFE was tested on PS3, there's few lag only in some AFT/AC songs, most of dreamy theather songs works without any 
 issues on PS3, after RPCS3 version be finished, we will work on PS3 version (by optimizing on it), and after that,
@@ -101,9 +102,9 @@ Working on new Intro Movie for MMFE.
 80.	Streaming Heart - Exclusive   (FINISHED - TECHZONE)
 81.	Patchwork Stacatto - Exclusive (FINISHED - TECHZONE)
 82.	Calc. - Exclusice             (FINISHED - TECHZONE)
+83.	Ready Steady - Exclusive      (WORKING ON CHART) (NEW)
 
-83.	moon                          (FINISHED)
-84.	Dear cocoa girls              (FINISHED)
+84.	moon                          (FINISHED)
 85.	Finder                        (FINISHED)
 86.	Love-Colored Ward             (FINISHED)
 87.	NekoMimi Switch               (FINISHED)
@@ -117,7 +118,7 @@ Working on new Intro Movie for MMFE.
 94.	Android Girl - Exclusive      (FINISHED)
 
 95.	Lucky Orb - Exclusive/Waiting Chart and Video
-96.	Reversible Campaign - Exclusive/Charts done; Waiting Video
+96.	Reversible Campaign - Exclusive/Charts done; Waiting Video (NEW)
 
 97.	Bring it On                   (FINISHED) (NEW)
 98.	Dramaturgy                    (FINISHED) (NEW)
