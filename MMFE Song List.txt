@@ -2,9 +2,10 @@ MMFE SONG LIST PREVIEW: (it can be changed in the future)
 
 Every new change will be marked as "(NEW)" on the list below.
 
-Tech zones will be added on game as an Update. (NEW)
-Dear cocoa girls was replaced with Ready Steady. (NEW)
-All stages were ported again to fix materials and we are working on Lighting. (NEW)
+Kipple Industry and Black Gold will be back again! (NEW)
+Stages are ported again, and all lighting is finished. (NEW)
+Working on new Intro Movie for MMFE. (NEW)
+
 
 MMFE was tested on PS3, there's few lag only in some AFT/AC songs, most of dreamy theather songs works without any 
 issues on PS3, after RPCS3 version be finished, we will work on PS3 version (by optimizing on it), and after that,
@@ -12,8 +13,6 @@ we will work on the vita version.
 
 Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason.
 
-Working on Technical Zones for all songs.
-Working on new Intro Movie for MMFE.
 
 1.	Mousou Sketch                 (FINISHED - TECHZONE)
 2.	Jigsaw Puzzle                 (FINISHED - TECHZONE)
@@ -124,4 +123,4 @@ Working on new Intro Movie for MMFE.
 98.	Dramaturgy                    (FINISHED) (NEW)
 99.	Greenlights Serenade          (FINISHED) (NEW)
 
-100. Tuturial
+100. Tutorial
