@@ -3,7 +3,7 @@ MMFE SONG LIST PREVIEW: (it can be changed in the future)
 Every new change will be marked as "(NEW)" on the list below.
 
 Ievan Polka replaced with Kipple Industry.(NEW)
-Hibikase replaced with Black Gold. (NEW)
+Hibikase replaced with Black Gold, currently porting. (NEW)
 Stages are ported again, and all lighting is finished. (NEW)
 Working on new Intro Movie for MMFE. (NEW)
 
