@@ -2,11 +2,13 @@ MMFE SONG LIST PREVIEW: (it can be changed in the future)
 
 Every new change will be marked as "(NEW)" on the list below.
 
-Ievan Polka replaced with Kipple Industry.(NEW)
-Hibikase replaced with Black Gold, currently porting. (NEW)
+Lukcy Orb will be replaced with SEKAI by DECO*27. (NEW)
 Stages are ported again, and all lighting is finished. (NEW)
 Working on new Intro Movie for MMFE. (NEW)
 
+Reminding PS3 version will be a downgraded version of RPCS3, the resolution will be limited (720p) 
+and FXAA is disabled. I know that using 720 will not change the internal resolution, but just to be safe
+we will make it run at 720p. (NEW)
 
 MMFE was tested on PS3, there's few lag only in some AFT/AC songs, most of dreamy theather songs works without any 
 issues on PS3, after RPCS3 version be finished, we will work on PS3 version (by optimizing on it), and after that,
@@ -79,7 +81,7 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 60.	Starduster                    (FINISHED)
 61.	Cendrillon                    (FINISHED)
 62.	The secret garden             (FINISHED)
-63.	Black Gold                    (STILL PORTING) (NEW)
+63.	Black Gold                    (FINISHED) (NEW)
 64.	Hibana                        (FINISHED)
 65.	Teo                           (FINISHED)
 66.	39 Music!                     (FINISHED)
@@ -102,7 +104,7 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 80.	Streaming Heart - Exclusive   (FINISHED - TECHZONE)
 81.	Patchwork Stacatto - Exclusive (FINISHED - TECHZONE)
 82.	Calc. - Exclusice             (FINISHED - TECHZONE)
-83.	Ready Steady - Exclusive      (WORKING ON CHART) (NEW)
+83.	Ready Steady - Exclusive      (FINISHED) (NEW)
 
 84.	moon                          (FINISHED)
 85.	Finder                        (FINISHED)
@@ -117,8 +119,8 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 93.	Bless Your Breath - Exclusive (FINISHED)
 94.	Android Girl - Exclusive      (FINISHED)
 
-95.	Lucky Orb - Exclusive/Waiting Chart and Video
-96.	Reversible Campaign - Exclusive (FINISHED)
+95.	SEKAI - Exclusive/Waiting Chart and Video
+96.	Reversible Campaign - Exclusive(FINISHED) (NEW)
 
 97.	Bring it On                   (FINISHED) (NEW)
 98.	Dramaturgy                    (FINISHED) (NEW)
