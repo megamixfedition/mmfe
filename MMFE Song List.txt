@@ -2,8 +2,8 @@ MMFE SONG LIST PREVIEW: (it can be changed in the future)
 
 Every new change will be marked as "(NEW)" on the list below.
 
-Lukcy Orb will be replaced with SEKAI by DECO*27. (NEW)
-Stages are ported again, and all lighting is finished. (NEW)
+Fixing some stages visual issues. (NEW)
+Working on Success/Fail Scenes. (NEW)
 Working on new Intro Movie for MMFE. (NEW)
 
 Reminding PS3 version will be a downgraded version of RPCS3, the resolution will be limited (720p) 
@@ -23,7 +23,7 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 4.	1/6 -out of the gravity-      (FINISHED)
 5.	Denparadigm                   (FINISHED)
 6.	The Snow White Princess is... (FINISHED)
-7.	Kipple Industry Inc.          (FINISHED) (NEW)  
+7.	Kipple Industry Inc.          (FINISHED)  
 8.	Dear                          (FINISHED)
 9.	World's End Dance Hall        (FINISHED - TECHZONE)
 10.	Saihate                       (FINISHED)
@@ -44,7 +44,7 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 25.	Ghost Rule                    (FINISHED)
 26.	SING AND SMILE                (FINISHED)
 27.	Tricolore Airline             (FINISHED)
-28.	39                            (MAKING FACIALS)
+28.	39                            (FINISHED)
 29.	The First Sound -F Edition-   (FINISHED - TECHZONE)
 30.	Sweet Magic                   (FINISHED)
 31.	Roki                          (FINISHED)
@@ -67,7 +67,7 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 48.	Hatsune Miku no Shoushitso    (FINISHED)
 49.	from Y to Y                   (FINISHED)
 
-50.	Ray - Exclusive               (FINISHED) (NEW)
+50.	Ray - Exclusive               (FINISHED) 
 
 51.	Skeleton Orchestra and Lilia  (FINISHED)
 52.	Kimi no Taion                 (FINISHED)
@@ -81,7 +81,7 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 60.	Starduster                    (FINISHED)
 61.	Cendrillon                    (FINISHED)
 62.	The secret garden             (FINISHED)
-63.	Black Gold                    (FINISHED) (NEW)
+63.	Black Gold                    (FINISHED)
 64.	Hibana                        (FINISHED)
 65.	Teo                           (FINISHED)
 66.	39 Music!                     (FINISHED)
@@ -119,11 +119,11 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 93.	Bless Your Breath - Exclusive (FINISHED)
 94.	Android Girl - Exclusive      (FINISHED)
 
-95.	SEKAI - Exclusive/Waiting Chart and Video
-96.	Reversible Campaign - Exclusive(FINISHED) (NEW)
+95.	SEKAI - Exclusive             (FINISHED) (NEW)
+96.	Reversible Campaign - Exclusive(FINISHED)
 
-97.	Bring it On                   (FINISHED) (NEW)
-98.	Dramaturgy                    (FINISHED) (NEW)
-99.	Greenlights Serenade          (FINISHED) (NEW)
+97.	Bring it On                   (FINISHED) 
+98.	Dramaturgy                    (FINISHED) 
+99.	Greenlights Serenade          (FINISHED) 
 
 100. Tutorial
