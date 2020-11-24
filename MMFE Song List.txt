@@ -2,15 +2,30 @@ MMFE SONG LIST PREVIEW: (it can be changed in the future)
 
 Every new change will be marked as "(NEW)" on the list below.
 
-Fixing some stages visual issues. (NEW)
-Working on Success/Fail Scenes. (NEW)
-Working on new Intro Movie for MMFE. (NEW)
+F2nd Ports Finished and Fixed:(NEW)
+  |- A3DA Lighting Fixed;
+  |- New Stars Target positions because of Link Stars;
+  |- Added Lyrics to Songs without them;
+  |- Fixed lyrics missing, or getting stuck because of SUCCESS/FAILED events.
+  |_ Slow motion physics got fixed by removing "OSAGE" commands from DSC. (The same goes for PDX Songs)
 
-Reminding PS3 version will be a downgraded version of RPCS3, the resolution will be limited (720p) 
-and FXAA is disabled. I know that using 720 will not change the internal resolution, but just to be safe
-we will make it run at 720p. (NEW)
+-Fixing some stages visual issues.
+-Working on Success/Fail Scenes.
+-Working on new Intro Movie for MMFE.
 
-MMFE was tested on PS3, there's few lag only in some AFT/AC songs, most of dreamy theather songs works without any 
+Reminding PS3/VITA version will be a downgraded version of RPCS3:
+  |-The resolution will be limited to 720p (PS3)
+  |_FXAA will be disabled (PS3)
+  
+ -I know that using 720p will not change the internal resolution on the game, but just to be safe
+we will make it run at 720p. (PS3 Version).
+
+ -VITA version will be probably the easiest one (at some point) to get optimized stuff, because the
+resolution and shaders that it uses is really "light".
+
+____________________________________________________________________________________________________________________
+
+ -MMFE was tested on PS3, there's few lag only in some AFT/AC songs, most of dreamy theather songs works without any 
 issues on PS3, after RPCS3 version be finished, we will work on PS3 version (by optimizing on it), and after that,
 we will work on the vita version.
 
@@ -25,7 +40,7 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 6.	The Snow White Princess is... (FINISHED)
 7.	Kipple Industry Inc.          (FINISHED)  
 8.	Dear                          (FINISHED)
-9.	World's End Dance Hall        (FINISHED - TECHZONE)
+9.	World's End Dance Hall        (FINISHED)
 10.	Saihate                       (FINISHED)
 11.	Stardust Utopia               (FINISHED)
 12.	Butterfly on Your Right Shoulder (FINISHED)
@@ -104,7 +119,7 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 80.	Streaming Heart - Exclusive   (FINISHED - TECHZONE)
 81.	Patchwork Stacatto - Exclusive (FINISHED - TECHZONE)
 82.	Calc. - Exclusice             (FINISHED - TECHZONE)
-83.	Ready Steady - Exclusive      (FINISHED) (NEW)
+83.	Ready Steady - Exclusive      (FINISHED)
 
 84.	moon                          (FINISHED)
 85.	Finder                        (FINISHED)
@@ -119,7 +134,7 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 93.	Bless Your Breath - Exclusive (FINISHED)
 94.	Android Girl - Exclusive      (FINISHED)
 
-95.	SEKAI - Exclusive             (FINISHED) (NEW)
+95.	SEKAI - Exclusive             (FINISHED)
 96.	Reversible Campaign - Exclusive(FINISHED)
 
 97.	Bring it On                   (FINISHED) 
