@@ -1,5 +1,8 @@
 MMFE SONG LIST PREVIEW: (it can be changed in the future) 
 
+BIG NEW! Once all failed and success scenes are done, MMFE will be released for RPCS3 version!
+
+
 -Every new change will be marked as "(NEW)" on the list below.
 -Every new change about Failed/Success Scenes will be marked on the list below as "(SCENES DONE)".
 -Thanks to KeiKei, we have fixed Facials on old AC songs, they will be markes as "(FACIALS FIXED)"
@@ -36,10 +39,10 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 
 1.	Mousou Sketch                 (FINISHED)
 2.	Jigsaw Puzzle                 (FINISHED) 
-3.	No Logic                      (FINISHED) (SCENES DONE)
+3.	No Logic                      (FINISHED)
 4.	1/6 -out of the gravity-      (FINISHED)
-5.	Denparadigm                   (FINISHED) (SCENES DONE)
-6.	The Snow White Princess is... (FINISHED)
+5.	Denparadigm                   (FINISHED) (SCENES DONE) (NEW)
+6.	The Snow White Princess is... (FINISHED) (SCENES DONE) (NEW)
 7.	Kipple Industry Inc.          (FINISHED) (FACIALS FIXED)  
 8.	Dear                          (FINISHED) (SCENES DONE)
 9.	World's End Dance Hall        (FINISHED) (FACIALS FIXED)
@@ -47,27 +50,27 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 11.	Stardust Utopia               (FINISHED) (FACIALS FIXED)
 12.	Butterfly on Your Right Shoulder (FINISHED)
 13.	Gigantic Girl                 (FINISHED) (SCENES DONE)
-14.	Terekakushi Shishunki         (FINISHED) 
+14.	Terekakushi Shishunki         (FINISHED) (SCENES DONE) (NEW)
 15.	Yumeyume                      (FINISHED) (FACIALS FIXED)
 16.	melody...                     (FINISHED) (SCENES DONE - FACIALS FIXED)
 17.	Deep Sea City Underground     (FINISHED) (FACIALS FIXED)
 18.	VOC@LOID In Love              (FINISHED)
 19.	Deep Sea Girl                 (FINISHED) (FACIALS FIXED)
 20.	Sekiranun Graffiti            (FINISHED - EVERYTHING)
-21.	PIANO*GIRL                    (FINISHED)
+21.	PIANO*GIRL                    (FINISHED) (SCENES DONE) (NEW)
 22.	Systematic Love               (FINISHED)
 23.	Sand Planet                   (FINISHED)
 24.	on the rocks                  (FINISHED)
 25.	Ghost Rule                    (FINISHED) (SCENES DONE)
 26.	SING AND SMILE                (FINISHED)
 27.	Tricolore Airline             (FINISHED)
-28.	39                            (FINISHED) (FACIALS FIXED)
+28.	39                            (FINISHED) (SCENES DONE) (NEW)
 29.	The First Sound -F Edition-   (FINISHED - TECHZONE)
 30.	Sweet Magic                   (FINISHED)
 31.	Roki                          (FINISHED)
 32.	*Hello, Planet.               (FINISHED)
 
-33.	Your Diva                     (This will be replaced)
+33.	Your Diva                     (This song will be replaced)
 
 34.	Though my song has no form    (FINISHED - EVERYTHING)
 35.	Innocence                     (FINISHED)
