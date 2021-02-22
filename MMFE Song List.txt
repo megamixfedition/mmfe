@@ -4,19 +4,12 @@ BIG NEW! Once all failed and success scenes are done, MMFE will be released for 
 
 
 -Every new change will be marked as "(NEW)" on the list below.
--Every new change about Failed/Success Scenes will be marked on the list below as "(SCENES DONE)".
--Thanks to KeiKei, we have fixed Facials on old AC songs, they will be markes as "(FACIALS FIXED)"
-on the list below.
 
-Currently fixing broken water on AFT/M39s ports to PDF. (NEW)
-  |
-  |- Previews:
-  |_ https://imgur.com/gallery/59b3eeg
- 
-
--Fixing some stages visual issues.
 -Working on Success/Fail Scenes.
 -Working on new Intro Movie for MMFE.
+-Fixing/Updating some MMFE Sprites.
+-PDX/F2nd Modules are being ported.
+-Hibikase restored!
 
 Reminding PS3/VITA version will be a downgraded version of RPCS3:
   |-The resolution will be limited to 720p (PS3)
@@ -26,7 +19,7 @@ Reminding PS3/VITA version will be a downgraded version of RPCS3:
 we will make it run at 720p. (PS3 Version).
 
  -VITA version will be probably the easiest one (at some point) to get optimized stuff, because the
-resolution and shaders that it uses is really "light".
+resolution and shaders that it uses are really "light"...
 
 ____________________________________________________________________________________________________________________
 
@@ -48,7 +41,7 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 9.	World's End Dance Hall        (FINISHED) (SCENES DONE) (NEW)
 10.	Saihate                       (FINISHED) 
 11.	Stardust Utopia               (FINISHED) (SCENES DONE) (NEW)
-12.	Butterfly on Your Right Shoulder (FINISHED) 
+12.	Butterfly on Your Right Shoulder (FINISHED) (SCENES DONE) (NEW)
 13.	Gigantic Girl                 (FINISHED) (SCENES DONE) (NEW)
 14.	Terekakushi Shishunki         (FINISHED) (SCENES DONE) (NEW)
 15.	Yumeyume                      (FINISHED) (SCENES DONE) (NEW)
@@ -56,7 +49,7 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 17.	Deep Sea City Underground     (FINISHED) (FACIALS FIXED)
 18.	VOC@LOID In Love              (FINISHED) (SCENES DONE) (NEW)
 19.	Deep Sea Girl                 (FINISHED) (SCENES DONE) (NEW)
-20.	Sekiranun Graffiti            (FINISHED - EVERYTHING)
+20.	Sekiranun Graffiti            (EVERYTHING DONE)
 21.	PIANO*GIRL                    (FINISHED) (SCENES DONE) (NEW)
 22.	Systematic Love               (FINISHED) 
 23.	Sand Planet                   (FINISHED) 
@@ -72,20 +65,20 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 
 33.	Common World Domination       (FINISHED) (SCENES DONE) (NEW)
 
-34.	Though my song has no form    (FINISHED - EVERYTHING)
+34.	Though my song has no form    (EVERYTHING DONE)
 35.	Innocence                     (FINISHED) (SCENES DONE) (NEW)
-36.	Double Lariat                 (FINISHED - EVERYTHING)
+36.	Double Lariat                 (EVERYTHING DONE)
 37.	Dreaming Chuchu               (FINISHED)
 38.	Ohedo Julianight              (FINISHED)
 39.	Jitterbug                     (FINISHED)
 40.	Snowman                       (FINISHED) (SCENES DONE) (NEW)
-41.	Ai Kotoba                     (FINISHED - EVERYTHING)
+41.	Ai Kotoba                     (EVERYTHING DONE)
 42.	Lover's Suicide Oblivion      (FINISHED) (SCENES DONE) (NEW)
-43.	Meltdown                      (FINISHED - EVERYTHING)
+43.	Meltdown                      (EVERYTHING DONE)
 44.	Love Is War                   (FINISHED) (SCENES DONE) (NEW)
 45.	RinRin Signal -Append Mix-    (FINISHED) (SCENES DONE) (NEW)
-46.	Romeo and Cinderella          (FINISHED - EVERYTHING)
-47.	PoPipo -Special Edition       (FINISHED - EVERYTHING)
+46.	Romeo and Cinderella          (EVERYTHING DONE)
+47.	PoPipo -Special Edition       (EVERYTHING DONE)
 48.	Hatsune Miku no Shoushitso    (FINISHED) (SCENES DONE) (NEW)
 49.	from Y to Y                   (FINISHED) (SCENES DONE) (NEW)
 
@@ -97,29 +90,29 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 54.	Ageage Again                  (FINISHED) (SCENES DONE) (NEW)
 55.	shake it!                     (FINISHED) (SCENES DONE) (NEW)
 56.	1925                          (FINISHED) (SCENES DONE) (NEW)
-57.	Piano × Forte × Scandal       (FINISHED)
-58.	Hand in Hand                  (FINISHED)
-59.	Palette                       (FINISHED)
-60.	Starduster                    (FINISHED)
-61.	Cendrillon                    (FINISHED)
-62.	The secret garden             (FINISHED)
+57.	Piano × Forte × Scandal       (FINISHED) 
+58.	Hand in Hand                  (FINISHED) (SCENES DONE) (NEW)
+59.	Palette                       (FINISHED) (SCENES DONE) (NEW)
+60.	Starduster                    (FINISHED) (SCENES DONE) (NEW)
+61.	Cendrillon                    (FINISHED) (SCENES DONE) (NEW)
+62.	The secret garden             (FINISHED) (SCENES DONE) (NEW)
 63.	Black Gold                    (FINISHED) (SCENES DONE) (NEW)
-64.	Hibana                        (FINISHED)
-65.	Teo                           (FINISHED)
+64.	Hibana                        (FINISHED) (SCENES DONE) (NEW)
+65.	Teo                           (FINISHED) (SCENES DONE) (NEW)
 66.	39 Music!                     (FINISHED)
 67.	Catch the Wave                (FINISHED)
-68.	Alien Alien                   (FINISHED)
-69.	Electro saturator             (FINISHED)
-70.	StargazeR                     (FINISHED)
+68.	Alien Alien                   (FINISHED) (SCENES DONE) (NEW)
+69.	Electro saturator             (FINISHED) (SCENES DONE) (NEW)
+70.	StargazeR                     (FINISHED) (SCENES DONE) (NEW)
 
-71.	Solitary Envy - Exclusive     (FINISHED - TECHZONE)
+71.	Solitary Envy - Exclusive     (EVERYTHING DONE)
 
-72.	LIKE THE WIND                 (FINISHED) (FACIALS FIXED)
-73.	Lucid Dreaming                (FINISHED) (FACIALS FIXED)
-74.	Strobo Nights                 (FINISHED)
-75.	Song of Life                  (This song will be replaced with "Melty Land Nightmare") 
-76.	The Two of Us - Futaride      (FINISHED) (FACIALS FIXED)
-77.	Oha-Yo-del!!                  (FINISHED)
+72.	LIKE THE WIND                 (FINISHED) (SCENES DONE) (NEW) 
+73.	Lucid Dreaming                (FINISHED) (SCENES DONE) (NEW)
+74.	Strobo Nights                 (FINISHED) (SCENES DONE) (NEW)
+75.	Hibikase                      (FINISHED - CHARTS DONE) (NEW)
+76.	The Two of Us - Futaride      (FINISHED) (SCENES DONE) (NEW)
+77.	Oha-Yo-del!!                  (FINISHED) 
 78.	Puzzle                        (FINISHED)
 79.	VOiCE -DIVA　MIX-              (FINISHED)
 
@@ -128,21 +121,23 @@ Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason
 82.	Calc. - Exclusice             (FINISHED - TECHZONE)
 83.	Ready Steady - Exclusive      (FINISHED) (SCENES DONE)
 
-84.	moon                          (FINISHED)
-85.	Finder                        (FINISHED)
+84.	moon                          (FINISHED) (SCENES DONE) (NEW)
+85.	Finder                        (FINISHED) (SCENES DONE) (NEW)
 86.	Love-Colored Ward             (FINISHED)
 87.	NekoMimi Switch               (FINISHED)
 88.	Time Limit                    (FINISHED) (FACIALS FIXED)
 89.	Sound                         (FINISHED)
 90.	Iroha Uta                     (FINISHED) (FACIALS FIXED)
-91.	Melt                          (FINISHED - EVERYTHING)
+91.	Melt                          (EVERYTHING DONE)
 92.	Solitude's End                (FINISHED - EVERYHTING)
 
 93.	Bless Your Breath - Exclusive (FINISHED)
 94.	Android Girl - Exclusive      (FINISHED)
 
 95.	SEKAI - Exclusive             (FINISHED)
-96.	Reversible Campaign - Exclusive(FINISHED)
+
+96.	Melty Land Nighmatres - Exclusive (FINISHED - CHARTS DONE)
+96.1. Reversible Campaign can be played with a optional UPDATE that will come with the mod release.
 
 97.	Bring it On                   (FINISHED) 
 98.	Dramaturgy                    (FINISHED) 
