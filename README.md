@@ -25,9 +25,9 @@ New Loading graphics (Screen Images and Now Loading animation) by KeiKei.<br>
 FlyingSpirits-P for the PDXHD Modules used on MMD to make poses.
 
 ## Tools Credits
-Thanks Skyth for MMM and DatabaseConverter<br>
-Samyuu for ScriptEditor<br>
-and Korenkonder for PD Tool
+Thanks Skyth for MMM and DatabaseConverter.<br>
+Samyuu for ScriptEditor.<br>
+Korenkonder for PD Tool.
 
 # FAQ
 ### What's the difference between PS3 and RPCS3?
