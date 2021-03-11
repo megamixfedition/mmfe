@@ -6,13 +6,6 @@ It will be available on PS3, RPCS3 and PS Vita! But there will be some differenc
 """DO NOT bother me to make this mod for PDF2nd, or PDX, because the game uses completely different files formats. PDF on vita we cant make stick to work with stars targets!"""
 
 # Downloads
-## Old demos
-
- [PS3](https://drive.google.com/file/d/1qyy_2R0rQdCZNqUiBxvu82cbJWZCFPuI/view)
- 
- [RPCS3](https://drive.google.com/file/d/1ls2LO4SJeW0XYN7IQ-tLf2b6BfKutcaU/view)
- 
- [PS Vita](https://drive.google.com/file/d/1REZ5TK7ZsSitCBP4-KW3xEJUpp_XC50u/view)
  
  ## New demos
  
@@ -25,14 +18,11 @@ It will be available on PS3, RPCS3 and PS Vita! But there will be some differenc
 # Special Credits
 
 Thatrandomlurker for teaching me everything about modding and working with me at this amazing project.<br>
-Keikei for teaching me how to fix effstg stuff and stage data.<br>
-Ismael for porting DIVA F modules to MMD and texture changes on Dear.<br>
-Spaghetti for the sound effects of the success scenes.<br>
-NotYourWaifu for module poses on MMD.<br>
-Ohmmiekun for some VOCALOID loading screens.<br>
-MikuFan for sprites and loading screen background.<br>
-s3un6 for the new Dear vocals. And congratulations on winning the T-Shirt contest!<br>
-Also thanks for all of those who joined the T-Shirt contest, [which can be seen here.](https://www.youtube.com/watch?v=KuOLnLRv1As)
+s3un6 for the new Dear vocals.<br>
+New physics by Skyth and KeiKei.<br>
+New MMFE Logo made by MikuFan01.<br>
+New Loading graphics (Screen Images and Now Loading animation) by KeiKei.<br>
+FlyingSpirits-P for the PDXHD Modules used on MMD to make poses.
 
 ## Tools Credits
 Thanks Skyth for MMM and DatabaseConverter<br>
