@@ -47,7 +47,7 @@ You'll first need a modded PS Vita, PS3 or a PC able to run RPCS3.
 - RPCS3:<br>
     Simply drop the .pkg file onto RPCS3 window after following the RPCS3 setup.
 - PS Vita:<br>
-    Tranfer the .vpk file over to your Vita. Open vitashell, press X on the vpk then X wherever it asks you if you want to install it.<br>
+    Transfer the .vpk file over to your Vita. Open vitashell, press X on the vpk then X wherever it asks you if you want to install it.<br>
 - PS3: <br>
     First start by copying the .pkg file(s) to a Flash Drive formatted as FAT32, then plug it into your PS3.<br>
     Enable HEN, and there will be a folder called "Package" in the XMB menu. Open it.<br>
