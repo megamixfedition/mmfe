@@ -1,22 +1,17 @@
 MMFE SONG LIST PREVIEW: (it can be changed in the future) 
 
-BIG NEW! Once all failed and success scenes are done, MMFE will be released for RPCS3 version!
+BIG NEW! All songs are finally finished, we are searching for PVs issues and manage to fix them.
 
 
--Every new change will be marked as "(NEW)" on the list below.
+ -Every new change will be marked as "(NEW)" on the list below.
 
--Working on Success/Fail Scenes.
--Working on new Intro Movie for MMFE.
--Fixing/Updating some MMFE Sprites.
--PDX/F2nd Modules are being ported.
--Hibikase restored!
+ -Songs Finished
+ -Intro Movie Finished 
+ -PDX/F2nd Modules are being ported.
 
-Reminding PS3/VITA version will be a downgraded version of RPCS3:
-  |-The resolution will be limited to 720p (PS3)
+Reminding that PS3/VITA version will be a downgraded version of RPCS3:
+  |-The resolution will be limited to an internal resolution of 720p (PS3)
   |_FXAA will be disabled (PS3)
-  
- -I know that using 720p will not change the internal resolution on the game, but just to be safe
-we will make it run at 720p. (PS3 Version).
 
  -VITA version will be probably the easiest one (at some point) to get optimized stuff, because the
 resolution and shaders that it uses are really "light"...
@@ -27,107 +22,103 @@ ________________________________________________________________________________
 issues on PS3, after RPCS3 version be finished, we will work on PS3 version (by optimizing on it), and after that,
 we will work on the vita version.
 
-Recent issues: "LOVE IS WAR" and "melody..." lags on PS3 for some strange reason.
-
 
 1.	Mousou Sketch                 (FINISHED)
 2.	Jigsaw Puzzle                 (FINISHED) 
-3.	No Logic                      (FINISHED) (SCENES DONE) (NEW)
-4.	1/6 -out of the gravity-      (FINISHED) (SCENES DONE) (NEW)
-5.	Denparadigm                   (FINISHED) (SCENES DONE) (NEW)
-6.	The Snow White Princess is... (FINISHED) (SCENES DONE) (NEW)
-7.	Kipple Industry Inc.          (FINISHED) (SCENES DONE) (NEW)
-8.	Dear                          (FINISHED) (SCENES DONE) (NEW)
-9.	World's End Dance Hall        (FINISHED) (SCENES DONE) (NEW)
+3.	No Logic                      (FINISHED) (SCENES DONE) 
+4.	1/6 -out of the gravity-      (FINISHED) (SCENES DONE) 
+5.	Denparadigm                   (FINISHED) (SCENES DONE) 
+6.	The Snow White Princess is... (FINISHED) (SCENES DONE) 
+7.	Kipple Industry Inc.          (FINISHED) (SCENES DONE) 
+8.	Dear                          (FINISHED) (SCENES DONE) 
+9.	World's End Dance Hall        (FINISHED) (SCENES DONE) 
 10.	Saihate                       (FINISHED) 
-11.	Stardust Utopia               (FINISHED) (SCENES DONE) (NEW)
-12.	Butterfly on Your Right Shoulder (FINISHED) (SCENES DONE) (NEW)
-13.	Gigantic Girl                 (FINISHED) (SCENES DONE) (NEW)
-14.	Terekakushi Shishunki         (FINISHED) (SCENES DONE) (NEW)
-15.	Yumeyume                      (FINISHED) (SCENES DONE) (NEW)
-16.	melody...                     (FINISHED) (SCENES DONE) (NEW)
+11.	Stardust Utopia               (FINISHED) (SCENES DONE) 
+12.	Butterfly on Your Right Shoulder (FINISHED) (SCENES DONE) 
+13.	Gigantic Girl                 (FINISHED) (SCENES DONE) 
+14.	Terekakushi Shishunki         (FINISHED) (SCENES DONE) 
+15.	Yumeyume                      (FINISHED) (SCENES DONE) 
+16.	melody...                     (FINISHED) (SCENES DONE) 
 17.	Deep Sea City Underground     (FINISHED) (FACIALS FIXED)
-18.	VOC@LOID In Love              (FINISHED) (SCENES DONE) (NEW)
-19.	Deep Sea Girl                 (FINISHED) (SCENES DONE) (NEW)
+18.	VOC@LOID In Love              (FINISHED) (SCENES DONE) 
+19.	Deep Sea Girl                 (FINISHED) (SUCCESS SCENES DELETED)(NEW)
 20.	Sekiranun Graffiti            (EVERYTHING DONE)
-21.	PIANO*GIRL                    (FINISHED) (SCENES DONE) (NEW)
+21.	PIANO*GIRL                    (FINISHED) (SCENES DONE) 
 22.	Systematic Love               (FINISHED) 
 23.	Sand Planet                   (FINISHED) 
-24.	on the rocks                  (FINISHED) (SCENES DONE) (NEW) 
-25.	Ghost Rule                    (FINISHED) (SCENES DONE) (NEW)
+24.	on the rocks                  (FINISHED) (SCENES DONE)  
+25.	Ghost Rule                    (FINISHED) (SCENES DONE) 
 26.	SING AND SMILE                (FINISHED)
 27.	Tricolore Airline             (FINISHED)
-28.	39                            (FINISHED) (SCENES DONE) (NEW)
+28.	39                            (FINISHED) (SCENES DONE) 
 29.	The First Sound -F Edition-   (FINISHED - TECHZONE)
 30.	Sweet Magic                   (FINISHED)
 31.	Roki                          (FINISHED)
-32.	*Hello, Planet.               (FINISHED) (SCENES DONE) (NEW)
-
-33.	Common World Domination       (FINISHED) (SCENES DONE) (NEW)
-
+32.	*Hello, Planet.               (FINISHED) (SCENES DONE) 
+33.	Common World Domination       (FINISHED) (SCENES DONE) 
 34.	Though my song has no form    (EVERYTHING DONE)
-35.	Innocence                     (FINISHED) (SCENES DONE) (NEW)
+35.	Innocence                     (FINISHED) (SCENES DONE) 
 36.	Double Lariat                 (EVERYTHING DONE)
 37.	Dreaming Chuchu               (FINISHED)
 38.	Ohedo Julianight              (FINISHED)
 39.	Jitterbug                     (FINISHED)
-40.	Snowman                       (FINISHED) (SCENES DONE) (NEW)
+40.	Snowman                       (FINISHED) (SCENES DONE) 
 41.	Ai Kotoba                     (EVERYTHING DONE)
-42.	Lover's Suicide Oblivion      (FINISHED) (SCENES DONE) (NEW)
+42.	Lover's Suicide Oblivion      (FINISHED) (SCENES DONE) 
 43.	Meltdown                      (EVERYTHING DONE)
-44.	Love Is War                   (FINISHED) (SCENES DONE) (NEW)
-45.	RinRin Signal -Append Mix-    (FINISHED) (SCENES DONE) (NEW)
+44.	Love Is War                   (FINISHED) (SCENES DONE) 
+45.	RinRin Signal -Append Mix-    (FINISHED) (SCENES DONE) 
 46.	Romeo and Cinderella          (EVERYTHING DONE)
 47.	PoPipo -Special Edition       (EVERYTHING DONE)
-48.	Hatsune Miku no Shoushitso    (FINISHED) (SCENES DONE) (NEW)
-49.	from Y to Y                   (FINISHED) (SCENES DONE) (NEW)
+48.	Hatsune Miku no Shoushitso    (FINISHED) (SCENES DONE) 
+49.	from Y to Y                   (FINISHED) (SCENES DONE) 
 
 50.	Ray - Exclusive               (FINISHED) 
 
 51.	Skeleton Orchestra and Lilia  (FINISHED)
-52.	Kimi no Taion                 (FINISHED) (SCENES DONE) (NEW) 
-53.	Hajimemashite Chikyuujin-San  (FINISHED) (SCENES DONE) (NEW)
-54.	Ageage Again                  (FINISHED) (SCENES DONE) (NEW)
-55.	shake it!                     (FINISHED) (SCENES DONE) (NEW)
-56.	1925                          (FINISHED) (SCENES DONE) (NEW)
+52.	Kimi no Taion                 (FINISHED) (SCENES DONE)  
+53.	Hajimemashite Chikyuujin-San  (FINISHED) (SCENES DONE) 
+54.	Ageage Again                  (FINISHED) (SCENES DONE) 
+55.	shake it!                     (PV IN PROGRESS) (NEW) 
+56.	1925                          (FINISHED) (SCENES DONE) 
 57.	Piano × Forte × Scandal       (FINISHED) 
-58.	Hand in Hand                  (FINISHED) (SCENES DONE) (NEW)
-59.	Palette                       (FINISHED) (SCENES DONE) (NEW)
-60.	Starduster                    (FINISHED) (SCENES DONE) (NEW)
-61.	Cendrillon                    (FINISHED) (SCENES DONE) (NEW)
-62.	The secret garden             (FINISHED) (SCENES DONE) (NEW)
-63.	Black Gold                    (FINISHED) (SCENES DONE) (NEW)
-64.	Hibana                        (FINISHED) (SCENES DONE) (NEW)
-65.	Teo                           (FINISHED) (SCENES DONE) (NEW)
+58.	Hand in Hand                  (FINISHED) (SCENES DONE) 
+59.	Palette                       (FINISHED) (SCENES DONE) 
+60.	Starduster                    (FINISHED) (SCENES DONE) 
+61.	Cendrillon                    (FINISHED) (SCENES DONE) 
+62.	The secret garden             (FINISHED) (SCENES DONE) 
+63.	Black Gold                    (FINISHED) (SCENES DONE) 
+64.	Hibana                        (FINISHED) (SCENES DONE) 
+65.	Teo                           (FINISHED) (SCENES DONE)
 66.	39 Music!                     (FINISHED)
 67.	Catch the Wave                (FINISHED)
-68.	Alien Alien                   (FINISHED) (SCENES DONE) (NEW)
-69.	Electro saturator             (FINISHED) (SCENES DONE) (NEW)
-70.	StargazeR                     (FINISHED) (SCENES DONE) (NEW)
+68.	Alien Alien                   (FINISHED) (SCENES DONE)
+69.	Electro saturator             (FINISHED) (SCENES DONE)
+70.	StargazeR                     (FINISHED) (SCENES DONE)
 
 71.	Solitary Envy - Exclusive     (EVERYTHING DONE)
 
-72.	LIKE THE WIND                 (FINISHED) (SCENES DONE) (NEW) 
-73.	Lucid Dreaming                (FINISHED) (SCENES DONE) (NEW)
-74.	Strobo Nights                 (FINISHED) (SCENES DONE) (NEW)
-75.	Hibikase                      (FINISHED - CHARTS DONE) (NEW)
-76.	The Two of Us - Futaride      (FINISHED) (SCENES DONE) (NEW)
+72.	LIKE THE WIND                 (FINISHED) (SCENES DONE)
+73.	Lucid Dreaming                (FINISHED) (SCENES DONE)
+74.	Strobo Nights                 (FINISHED) (SUCCESS SCENES DELETED)(NEW)
+75.	A Single Red Lead - Exclusive (FINISHED - TECHZONE)
+76.	The Two of Us - Futaride      (FINISHED) (SCENES DONE)
 77.	Oha-Yo-del!!                  (FINISHED) 
 78.	Puzzle                        (FINISHED)
 79.	VOiCE -DIVA　MIX-              (FINISHED)
 
-80.	Streaming Heart - Exclusive   (FINISHED - TECHZONE)
-81.	Patchwork Stacatto - Exclusive (FINISHED - TECHZONE)
-82.	Calc. - Exclusice             (FINISHED - TECHZONE)
+80.	Streaming Heart - Exclusive   (FINISHED - EVERYTHING DONE)(NEW)
+81.	Patchwork Stacatto - Exclusive(FINISHED - EVERYTHING DONE)(NEW)
+82.	Calc. - Exclusice             (FINISHED - EVERYTHING DONE)(NEW)
 83.	Ready Steady - Exclusive      (FINISHED) (SCENES DONE)
 
-84.	moon                          (FINISHED) (SCENES DONE) (NEW)
-85.	Finder                        (FINISHED) (SCENES DONE) (NEW)
-86.	Love-Colored Ward             (FINISHED)
+84.	moon                          (FINISHED) (SCENES DONE) 
+85.	Finder                        (FINISHED) (SCENES DONE) 
+86.	Interviewer                   (FINISHED) (SCENES DONE)
 87.	NekoMimi Switch               (FINISHED)
-88.	Time Limit                    (FINISHED) (FACIALS FIXED)
-89.	Sound                         (FINISHED)
-90.	Iroha Uta                     (FINISHED) (FACIALS FIXED)
+88.	Hibikase                      (FINISHED - CHARTS DONE)
+89.	Sound                         (FINISHED) (SCENES DONE)
+90.	Iroha Uta                     (FINISHED)
 91.	Melt                          (EVERYTHING DONE)
 92.	Solitude's End                (FINISHED - EVERYHTING)
 
