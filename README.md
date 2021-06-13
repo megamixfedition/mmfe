@@ -1,7 +1,16 @@
 # MEGAMIX -F Edition-
-This page will be used for releases/updates for Project DIVA MEGAMIX -F Edition-. This mod is about having AFT/FT and MEGA39s songs ported into Project DIVA F! It will have new modules (edited too, so they can fit PDF style), actual redesigned charts ~~with technical zones~~\*, and chance time events for all songs, unfortunately there will not be long notes, since the only way to add them is writing them manually. They could be added with a converter (converting slidechains to long notes), but they get out of sync.<br>There will also be new menu graphics, new sprites, you will be able to use DIVA Room and Edit Mode using brand new modules and stages!
+This page will be used for releases/updates for Project DIVA MEGAMIX -F Edition-. This mod is about having AFT/FT and MEGA39s songs ported into Project DIVA F! It will have new modules (edited too, so they can fit PDF style), actual redesigned charts ~~with technical zones~~\*, and chance time events for almost all songs, unfortunately there will not be long notes, since the only way to add them is writing them manually. They could be added with a converter (converting slidechains to long notes), but they get out of sync.<br>There will also be new menu graphics, new sprites, you will be able to use DIVA Room and Edit Mode using brand new modules and stages!
 
 It will be available on PS3, RPCS3 and PS Vita! But there will be some differences between those plataforms. Depending on your PC, RPCS3 can be a lot more powerful than PS3, so it will be able to handle the mod better, with better quality textures, stages and all. PS3 and PS Vita will have decreased graphics (Specially Vita).
+
+# Important Information
+- MMFE takes up 10GB of space
+- If you are playing MMFE on RPCS3, delete all Vanilla F cache, and you have to create a new save data, and vice-versa, otherwise it will crash.
+- If you are playing MMFE on PS3, just create a new save data and everything should be just fine, not forgetting that MMFE is not optimized for PS3
+yet, so you might have issues, like loop loadings or random crashes.
+
+# MMFE Release Trailer
+https://www.youtube.com/watch?v=LoxP9v97L1I
 
 # Downloads
  
@@ -12,20 +21,35 @@ It will be available on PS3, RPCS3 and PS Vita! But there will be some differenc
  [RPCS3](https://drive.google.com/file/d/11gbv9_m8d-iWwYtaOD-GOUPPmbXrvUdh/view?usp=sharing)
  
  [PS Vita](https://drive.google.com/file/d/1LSAd4zqkL7SZ5J2HmWH9CDGVBIKcNwq6/view)
+ 
+  ## Optional Updates
+ [Songs] In case you want to replace "Melty Land Nightmare" with "Reversible Campaign": https://drive.google.com/file/d/1pk-N_e9Mssa0V1enBCBQdUS7bjiuqmgo/view?usp=sharing
+ [Songs] In case you want to recover "Melty Land Nightmare" after you replace with "Reversible Campaign": https://drive.google.com/file/d/1YP7_32dLRYyH95sqTDzFQJAeMIjC8oON/view?usp=sharing 
+ 
+ [RESNFPS] 30FPS 720p: https://drive.google.com/file/d/1lQEtcLGxDzxOscEyQcMm-xlo54dT658Q/view?usp=sharing
+ [RESNFPS] 30FPS 1080p: https://drive.google.com/file/d/1DCCU5lLC-O1Loi4AH4RMsk4YJHzzmMlM/view?usp=sharing
+
+ [RESNFPS] 60FPS 32p (just for fun): https://drive.google.com/file/d/1HRwDgo2XEsXMcSyHOtkxWvHx5B8TO5wQ/view?usp=sharing
+ [RESNFPS] 60FPS 272p: https://drive.google.com/file/d/1HRwDgo2XEsXMcSyHOtkxWvHx5B8TO5wQ/view?usp=sharing
+ [RESNFPS] 60FPS 576p: https://drive.google.com/file/d/1j4zvx4EfO-keLKA7PHOUnTIC7j-8nYAw/view?usp=sharing
 
 # Special Credits
 
-Thatrandomlurker for teaching me everything about modding and working with me at this amazing project.<br>
-s3un6 for the new Dear vocals.<br>
-New physics by Skyth and KeiKei.<br>
-New MMFE logo made by MikuFan01.<br>
-New Loading graphics (Screen images and Now Loading animation) by KeiKei.<br>
-FlyingSpirits-P for the DIVA XHD Modules used on MMD to make poses.
+- FlyingSpirits-P for the PDXHD Modules used on MMD to make poses or PVs;
+- MMD Intro camera by MikuZando (me) and Ray PV camera by MikuZando (me again) and Marky;
+- New Physics by feat_jinsoul, Keikei14 and Skyth;
+- Loading 2D Illustrations by DrateGon;
+- "BG" and "Now Loading" aet animations ported by KeiKei;
+- Loadind Screenshots taken by KeiKei and Dubita;
+- BG videos recorded by Dubita, MikuFan01 and Edgy-P;
+- "Vocaloid in Love" and "on the rocks" new covers by beemz;
+- "Dear" new cover by s3un6;
+- "Calc" Title Screen sprite by jorj.
 
 ## Tools Credits
-Thanks Skyth for MMM and DatabaseConverter.<br>
-Samyuu for ScriptEditor.<br><br>
-Korenkonder for PD Tool.
+- Skyth for MMM and DB converter;
+- Samyuu for Script Editor, UPDC and AE Template;
+- korenkonder for PD Tool.
 
 # FAQ
 ### What's the difference between PS3 and RPCS3?
@@ -33,13 +57,14 @@ Korenkonder for PD Tool.
 ### How do I install this game?
 You'll first need a modded PS Vita, PS3 or a PC able to run RPCS3.
 - RPCS3:<br>
-    Simply drop the .pkg file onto RPCS3 window after following the RPCS3 setup.
+    Simply drop the EBOOT.bin (Location: "BLUS31319 > PS3_GAME > USRDIR")
 - PS Vita:<br>
     Transfer the .vpk file over to your Vita. Open vitashell, press X on the vpk then X wherever it asks you if you want to install it.<br>
 - PS3: <br>
-    First start by copying the .pkg file(s) to a Flash Drive formatted as FAT32, then plug it into your PS3.<br>
-    Enable HEN, and there will be a folder called "Package Manager" on the XMB menu. Open it.<br>
-    Open the "Install PKG Files" folder inside it, then open the "Standard" folder and finally install the pkg. The game should be on the XMB menu now.
+    Download the BLUS31319 folder copy it to a USB Drive, (it needs atleast 16GB of space) after that, open multiman on your PS3, if you
+    don't have it, please install it, copy the BLUS31319 folder wherever you want, at your choice and after it's completely copied, open the
+    it in the next folders "BLUS31319 > PS3_GAME > USRDIR" and double click or double select the EBOOT.bin inside that folder. Multiman should
+    automatically and make the game appear on the playstation menu where you open the games.
 ### Do you plan to make this mod in X or F2nd in the future?
 * No. That's not planned as of now.
 ### Please! Make the sticks work as star input on Vita!
