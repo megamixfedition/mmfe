@@ -1,27 +1,17 @@
-MMFE SONG LIST PREVIEW: (it can be changed in the future) 
-
-BIG NEWS! All songs are finally finished, we are searching for PVs issues and manage to fix them.
+DOWNLOAD MMFE NOW!
 
 
  -Every new change will be marked as "(NEW)" on the list below.
 
  -Songs Finished
  -Intro Movie Finished 
- -PDX/F2nd Modules are being ported.
+ -PDX/F2nd Modules ported with real time physics.
 
-Reminding that PS3/VITA version will be a downgraded version of RPCS3:
-  |-The resolution will be limited to an internal resolution of 720p (PS3)
-  |_FXAA will be disabled (PS3)
-
- -VITA version will be probably the easiest one (at some point) to get optimized stuff, because the
-resolution and shaders that it uses are really "light"...
+MMFE is now released, but only RPCS3 version, you can still play it on PS3, but you will
+deal with a lot of crashes or loop loadings.
 
 ____________________________________________________________________________________________________________________
-
- -MMFE was tested on PS3, there's few lag only in some AFT/AC songs, most of dreamy theather songs works without any 
-issues on PS3, after RPCS3 version be finished, we will work on PS3 version (by optimizing on it), and after that,
-we will work on the vita version.
-
+Song List:
 
 1.	Mousou Sketch                 (FINISHED)
 2.	Jigsaw Puzzle                 (FINISHED) 
@@ -41,7 +31,7 @@ we will work on the vita version.
 16.	melody...                     (FINISHED) (SCENES DONE) 
 17.	Deep Sea City Underground     (FINISHED) (FACIALS FIXED)
 18.	VOC@LOID In Love              (FINISHED) (SCENES DONE) 
-19.	Deep Sea Girl                 (FINISHED) (SUCCESS SCENES DELETED)(NEW)
+19.	Deep Sea Girl                 (FINISHED)
 20.	Sekiranun Graffiti            (EVERYTHING DONE)
 21.	PIANO*GIRL                    (FINISHED) (SCENES DONE) 
 22.	Systematic Love               (FINISHED) 
@@ -100,7 +90,7 @@ we will work on the vita version.
 
 72.	LIKE THE WIND                 (FINISHED) (SCENES DONE)
 73.	Lucid Dreaming                (FINISHED) (SCENES DONE)
-74.	Strobo Nights                 (FINISHED) (SUCCESS SCENES DELETED)(NEW)
+74.	Strobo Nights                 (FINISHED)
 75.	A Single Red Lead - Exclusive (FINISHED - TECHZONE)
 76.	The Two of Us - Futaride      (FINISHED) (SCENES DONE)
 77.	Oha-Yo-del!!                  (FINISHED) 
