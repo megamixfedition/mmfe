@@ -72,5 +72,5 @@ You'll first need a modded PS Vita, PS3 or a PC able to run RPCS3.
 
 # Additional Info
 We have been working on this mod since november 2019. We hope you have fun playing it.<br>
-If you wish to know more about the mod, please join [our Discord server](https://discord.com/channels/655202295067443221/655202295067443224/779164346634338354)<br>
+If you wish to know more about the mod, please join [our Discord server](https://discord.gg/bAKYfZRsDm)<br>
 * Technical Zones can or cannot be in the first release of the final game.
