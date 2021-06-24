@@ -30,7 +30,11 @@ https://www.youtube.com/watch?v=LoxP9v97L1I
  [60FPS 576p](https://drive.google.com/file/d/1j4zvx4EfO-keLKA7PHOUnTIC7j-8nYAw/view?usp=sharing)
 
  
-  ## RPCS3 Optional Song Updates
+  ## RPCS3 Updates
+  ### Updates
+  [UPDATE NO.1](https://drive.google.com/drive/folders/1J941cUD3JEy227ckrjFZGkRrMmL-qH7j)
+  
+  ### Optional Updates
   [Reversible Campaign](https://drive.google.com/file/d/1pk-N_e9Mssa0V1enBCBQdUS7bjiuqmgo/view?usp=sharing)
   
   [Melty Land Nightmare](https://drive.google.com/file/d/1YP7_32dLRYyH95sqTDzFQJAeMIjC8oON/view?usp=sharing)
