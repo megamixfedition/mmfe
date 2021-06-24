@@ -30,16 +30,16 @@ https://www.youtube.com/watch?v=LoxP9v97L1I
  [60FPS 576p](https://drive.google.com/file/d/1j4zvx4EfO-keLKA7PHOUnTIC7j-8nYAw/view?usp=sharing)
 
  
-  ## RPCS3 Optional Updates
+  ## RPCS3 Optional Song Updates
   [Reversible Campaign](https://drive.google.com/file/d/1pk-N_e9Mssa0V1enBCBQdUS7bjiuqmgo/view?usp=sharing)
   
   [Melty Land Nightmare](https://drive.google.com/file/d/1YP7_32dLRYyH95sqTDzFQJAeMIjC8oON/view?usp=sharing)
  
-  # MMFE Demos
+  ## MMFE Demos
 
- [PS3/RPCS3](https://drive.google.com/file/d/11gbv9_m8d-iWwYtaOD-GOUPPmbXrvUdh/view?usp=sharing)
+  [PS3/RPCS3](https://drive.google.com/file/d/11gbv9_m8d-iWwYtaOD-GOUPPmbXrvUdh/view?usp=sharing)
  
- [PS Vita](https://drive.google.com/file/d/1LSAd4zqkL7SZ5J2HmWH9CDGVBIKcNwq6/view)
+  [PS Vita](https://drive.google.com/file/d/1LSAd4zqkL7SZ5J2HmWH9CDGVBIKcNwq6/view)
  
  
 # Special Credits
