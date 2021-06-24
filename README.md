@@ -78,6 +78,9 @@ You'll first need a modded PS Vita, PS3 or a PC able to run RPCS3.
     don't have it, please install it, copy the BLUS31319 folder wherever you want, at your choice and after it's completely copied, open the
     it in the next folders "BLUS31319 > PS3_GAME > USRDIR" and double click or double select the EBOOT.bin inside that folder. Multiman should
     automatically and make the game appear on the playstation menu where you open the games.
+### How do I install updates on this game?
+   Start by downloading the update(s) you need, and extract them, inside them there wil be a "BLUS31319" folder, and just copy paste it to the 
+   location of you full MMFE Game (your full game folder is calles BLUS31319). And after that the update should be installed.
 ### Do you plan to make this mod in X or F2nd in the future?
 * No. That's not planned as of now.
 ### Please! Make the sticks work as star input on Vita!
