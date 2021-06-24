@@ -14,13 +14,6 @@ https://www.youtube.com/watch?v=LoxP9v97L1I
 
 # Downloads
  
- ## Demos
-
- [PS3/RPCS3](https://drive.google.com/file/d/11gbv9_m8d-iWwYtaOD-GOUPPmbXrvUdh/view?usp=sharing)
- 
- [PS Vita](https://drive.google.com/file/d/1LSAd4zqkL7SZ5J2HmWH9CDGVBIKcNwq6/view)
- 
- 
   ## PS3/RPCS3 Resolution and FPS patches
  [ORIGINAL_EBOOT](https://drive.google.com/file/d/1DDwOpqw2LtL2VywDx51Qa3TPdtny7-nN/view?usp=sharing)
  
@@ -38,8 +31,15 @@ https://www.youtube.com/watch?v=LoxP9v97L1I
 
  
   ## RPCS3 Optional Updates
- [Songs] In case you want to replace "Melty Land Nightmare" with "Reversible Campaign": https://drive.google.com/file/d/1pk-N_e9Mssa0V1enBCBQdUS7bjiuqmgo/view?usp=sharing
- [Songs] In case you want to recover "Melty Land Nightmare" after you replace with "Reversible Campaign": https://drive.google.com/file/d/1YP7_32dLRYyH95sqTDzFQJAeMIjC8oON/view?usp=sharing 
+  [Reversible Campaign](https://drive.google.com/file/d/1pk-N_e9Mssa0V1enBCBQdUS7bjiuqmgo/view?usp=sharing)
+  
+  [Melty Land Nightmare](https://drive.google.com/file/d/1YP7_32dLRYyH95sqTDzFQJAeMIjC8oON/view?usp=sharing)
+ 
+  # MMFE Demos
+
+ [PS3/RPCS3](https://drive.google.com/file/d/11gbv9_m8d-iWwYtaOD-GOUPPmbXrvUdh/view?usp=sharing)
+ 
+ [PS Vita](https://drive.google.com/file/d/1LSAd4zqkL7SZ5J2HmWH9CDGVBIKcNwq6/view)
  
  
 # Special Credits
