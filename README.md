@@ -15,24 +15,28 @@ https://www.youtube.com/watch?v=LoxP9v97L1I
 # Downloads
  
  ## Demos
- 
- [PS3](https://drive.google.com/file/d/1qK8GvA0up7oXU_dPlGZ37s1tAJI7z3Ci/view?usp=sharing)
- 
- [RPCS3](https://drive.google.com/file/d/11gbv9_m8d-iWwYtaOD-GOUPPmbXrvUdh/view?usp=sharing)
+
+ [PS3/RPCS3](https://drive.google.com/file/d/11gbv9_m8d-iWwYtaOD-GOUPPmbXrvUdh/view?usp=sharing)
  
  [PS Vita](https://drive.google.com/file/d/1LSAd4zqkL7SZ5J2HmWH9CDGVBIKcNwq6/view)
  
-  ## Optional Updates
- [Songs] In case you want to replace "Melty Land Nightmare" with "Reversible Campaign": https://drive.google.com/file/d/1pk-N_e9Mssa0V1enBCBQdUS7bjiuqmgo/view?usp=sharing
- [Songs] In case you want to recover "Melty Land Nightmare" after you replace with "Reversible Campaign": https://drive.google.com/file/d/1YP7_32dLRYyH95sqTDzFQJAeMIjC8oON/view?usp=sharing 
+ 
+  ## PS3/RPCS3 Optional Updates
+ [ORIGINAL_EBOOT]: https://drive.google.com/file/d/1DDwOpqw2LtL2VywDx51Qa3TPdtny7-nN/view?usp=sharing
  
  [RESNFPS] 30FPS 720p: https://drive.google.com/file/d/1lQEtcLGxDzxOscEyQcMm-xlo54dT658Q/view?usp=sharing
  [RESNFPS] 30FPS 1080p: https://drive.google.com/file/d/1DCCU5lLC-O1Loi4AH4RMsk4YJHzzmMlM/view?usp=sharing
 
- [RESNFPS] 60FPS 32p (just for fun): https://drive.google.com/file/d/1HRwDgo2XEsXMcSyHOtkxWvHx5B8TO5wQ/view?usp=sharing
- [RESNFPS] 60FPS 272p: https://drive.google.com/file/d/1HRwDgo2XEsXMcSyHOtkxWvHx5B8TO5wQ/view?usp=sharing
+ [RESNFPS] 60FPS 32p: (just for fun): https://drive.google.com/file/d/1HRwDgo2XEsXMcSyHOtkxWvHx5B8TO5wQ/view?usp=sharing
+ [RESNFPS] 60FPS 272p: https://drive.google.com/file/d/1tcCS01WsV6CjBFIKReT2NsSF_mpHR9pH/view?usp=sharing
  [RESNFPS] 60FPS 576p: https://drive.google.com/file/d/1j4zvx4EfO-keLKA7PHOUnTIC7j-8nYAw/view?usp=sharing
 
+ 
+  ## RPCS3 Optional Updates
+ [Songs] In case you want to replace "Melty Land Nightmare" with "Reversible Campaign": https://drive.google.com/file/d/1pk-N_e9Mssa0V1enBCBQdUS7bjiuqmgo/view?usp=sharing
+ [Songs] In case you want to recover "Melty Land Nightmare" after you replace with "Reversible Campaign": https://drive.google.com/file/d/1YP7_32dLRYyH95sqTDzFQJAeMIjC8oON/view?usp=sharing 
+ 
+ 
 # Special Credits
 
 - FlyingSpirits-P for the PDXHD Modules used on MMD to make poses or PVs;
