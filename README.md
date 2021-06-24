@@ -24,11 +24,16 @@ https://www.youtube.com/watch?v=LoxP9v97L1I
   ## PS3/RPCS3 Resolution and FPS patches
  [ORIGINAL_EBOOT](https://drive.google.com/file/d/1DDwOpqw2LtL2VywDx51Qa3TPdtny7-nN/view?usp=sharing)
  
+ 
  [RESNFPS 30FPS 720p](https://drive.google.com/file/d/1lQEtcLGxDzxOscEyQcMm-xlo54dT658Q/view?usp=sharing)
+ 
  [RESNFPS 30FPS 1080p](https://drive.google.com/file/d/1DCCU5lLC-O1Loi4AH4RMsk4YJHzzmMlM/view?usp=sharing)
 
+
  [RESNFPS 60FPS 32p](https://drive.google.com/file/d/1HRwDgo2XEsXMcSyHOtkxWvHx5B8TO5wQ/view?usp=sharing)
+ 
  [RESNFPS 60FPS 272p](https://drive.google.com/file/d/1tcCS01WsV6CjBFIKReT2NsSF_mpHR9pH/view?usp=sharing)
+ 
  [RESNFPS 60FPS 576p](https://drive.google.com/file/d/1j4zvx4EfO-keLKA7PHOUnTIC7j-8nYAw/view?usp=sharing)
 
  
