@@ -6,40 +6,37 @@ It will be available on PS3, RPCS3 and PS Vita! But there will be some differenc
 # Important Information
 - MMFE takes up 10GB of space
 - If you are playing MMFE on RPCS3, delete all Vanilla F cache, and you have to create a new save data, and vice-versa, otherwise it will crash.
-- If you are playing MMFE on PS3, just create a new save data and everything should be just fine, not forgetting that MMFE is not optimized for PS3
-yet, so you might have issues, like loop loadings or random crashes.
+- If you are playing MMFE on PS3, just create a new save data and everything should be just fine, the game uses a new ID for the folder and you can install it without the need to replace other vanilla F game.
 
 # MMFE Release Trailer
-https://www.youtube.com/watch?v=LoxP9v97L1I
+ [RPCS3](https://www.youtube.com/watch?v=LoxP9v97L1I)
+ [PS3](https://www.youtube.com/watch?v=qk9gg-i70CI)
 
-# Downloads
+# RPCS3 Downloads
  
-  ## PS3/RPCS3 Resolution and FPS patches
- [ORIGINAL_EBOOT](https://drive.google.com/file/d/1DDwOpqw2LtL2VywDx51Qa3TPdtny7-nN/view?usp=sharing)
- 
- 
- [30FPS 720p](https://drive.google.com/file/d/1lQEtcLGxDzxOscEyQcMm-xlo54dT658Q/view?usp=sharing)
- 
- [30FPS 1080p](https://drive.google.com/file/d/1DCCU5lLC-O1Loi4AH4RMsk4YJHzzmMlM/view?usp=sharing)
-
-
- [60FPS 32p](https://drive.google.com/file/d/1HRwDgo2XEsXMcSyHOtkxWvHx5B8TO5wQ/view?usp=sharing)
- 
- [60FPS 272p](https://drive.google.com/file/d/1tcCS01WsV6CjBFIKReT2NsSF_mpHR9pH/view?usp=sharing)
- 
- [60FPS 576p](https://drive.google.com/file/d/1j4zvx4EfO-keLKA7PHOUnTIC7j-8nYAw/view?usp=sharing)
-
+  ## Resolution and FPS patches
+ [EBOOTS](https://drive.google.com/drive/u/0/folders/14JIlvnMkrMLK7wPl_j_0A8NYJBfk_n2P)
  
   ## RPCS3 Updates
-  ### Updates
-  [UPDATE NO.1](https://drive.google.com/drive/folders/1J941cUD3JEy227ckrjFZGkRrMmL-qH7j)
+
+  [UPDATE NO.2](https://drive.google.com/drive/u/0/folders/1J941cUD3JEy227ckrjFZGkRrMmL-qH7j)
   
-  ### Optional Updates
-  [Reversible Campaign](https://drive.google.com/file/d/1pk-N_e9Mssa0V1enBCBQdUS7bjiuqmgo/view?usp=sharing)
+  ## Optional Updates
+  [Reversible Campaign / Melty Land Nightmare](https://drive.google.com/drive/u/0/folders/1q5ZSeoncLlFvh-77sqy_xnLKpgjrksUz)
   
-  [Melty Land Nightmare](https://drive.google.com/file/d/1YP7_32dLRYyH95sqTDzFQJAeMIjC8oON/view?usp=sharing)
+# PS3 Downloads
  
-  ## MMFE Demos
+  ## Resolution and FPS patches
+ [EBOOTS](https://drive.google.com/drive/folders/101XgoKJDOfCFUBn1dcdGjFMQKkGomW4Q?usp=sharing)
+ 
+  ## PS3 Updates
+
+  [THERE'S NO UPDATES FOR IT AT THE MOMENT]
+  
+  ## Optional Updates
+  [Reversible Campaign / Melty Land Nightmare](https://drive.google.com/drive/folders/1_Ga0ifnjJ95u1jAf8b54EWKJATr2yLE5?usp=sharing)  
+ 
+# MMFE Demos
 
   [PS3/RPCS3](https://drive.google.com/file/d/11gbv9_m8d-iWwYtaOD-GOUPPmbXrvUdh/view?usp=sharing)
  
@@ -65,22 +62,26 @@ https://www.youtube.com/watch?v=LoxP9v97L1I
 - korenkonder for PD Tool.
 
 # FAQ
-### What's the difference between PS3 and RPCS3?
-* RPCS3 version is heavier because of the better quality graphics. You can use RPCS3 version in PS3 and vice versa, but may cause lag.
+### What's the difference between PS3, RPCS3 and VITA?
+* RPCS3 version is heavier because of the better quality graphics. PS3 version in lighter, and has less details and quality than RPCS3, and
+* the same goes for VITA vrsion.
 ### How do I install this game?
 You'll first need a modded PS Vita, PS3 or a PC able to run RPCS3.
 - RPCS3:<br>
-    Simply drop the EBOOT.bin (Location: "BLUS31319 > PS3_GAME > USRDIR")
-- PS Vita:<br>
+    Simply drop the EBOOT.bin (Location: "BLUS31319 > PS3_GAME > USRDIR") on RPCS3.
+- PS Vita (Not released yet):<br>
     Transfer the .vpk file over to your Vita. Open vitashell, press X on the vpk then X wherever it asks you if you want to install it.<br>
 - PS3: <br>
-    Download the BLUS31319 folder copy it to a USB Drive, (it needs atleast 16GB of space) after that, open multiman on your PS3, if you
-    don't have it, please install it, copy the BLUS31319 folder wherever you want, at your choice and after it's completely copied, open the
-    it in the next folders "BLUS31319 > PS3_GAME > USRDIR" and double click or double select the EBOOT.bin inside that folder. Multiman should
-    automatically and make the game appear on the playstation menu where you open the games.
-### How do I install updates on this game?
-   Start by downloading the update(s) you need, and extract them, inside them there wil be a "BLUS31319" folder, and just copy paste it to the 
-   location of you full MMFE Game (your full game folder is called BLUS31319). And after that the update should be installed.
+    Download one of the MMFE PS3 zip files and, there will be 3 PKGs, you have to copy them to your flashdrive and install those 3 PKGs. 
+### How do I install updates (or custom) on this game?
+ [RPCS3](https://www.youtube.com/watch?v=N6iBv6grfus&t=41s)
+- PS Vita (Not released yet):<br> Download the VPK files and install it on your vita.
+- PS3:<br> Download the PKG file and install it on your PS3.
+
+### How do I install "FPS AND RESOLUTION" patches on this game?
+- RPCS3:<br> Download the EBOOT file you chose and then paste that file on "BLUS31319 > PS3_GAME > USRDIR".
+- PS3:<br> Download the EBOOT file you chose and then paste that file on "MMFE00001 > USRDIR".
+
 ### Do you plan to make this mod in X or F2nd in the future?
 * No. That's not planned as of now.
 ### Please! Make the sticks work as star input on Vita!
